@@ -1,4 +1,10 @@
-# Excelerate Data Analytics Internship Project – Excel Dashboard
+# Sales Performance & Analytics Dashboard
+
+![Excel](https://img.shields.io/badge/Microsoft-Excel-green)
+![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-blue)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange)
+
+---
 
 ## Project Overview
 This project was completed as part of my **Data Analytics Internship with Excelerate**.  
