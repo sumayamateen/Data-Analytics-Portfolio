@@ -14,7 +14,8 @@ It combines **data cleaning, feature engineering, exploratory analysis, and mach
 
 - **Dataset:** 8,558 learner applications across 70 countries  
 - **Success Rate:** 47.6% overall  
-- **Churn Rate:** 31.8% of students withdraw unexpectedly  
+- **Churn Rate:** 31.8% of students withdraw unexpectedly
+- **Tech Stack:** Python (pandas, numpy, scikit-learn, matplotlib, seaborn), Jupyter Notebook  
 
 ---
 
