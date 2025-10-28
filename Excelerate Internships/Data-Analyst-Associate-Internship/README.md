@@ -24,7 +24,10 @@
 This project consolidates **multiple educational datasets** into a **centralized Master Table** and builds an **interactive dashboard** for stakeholders.  
 The workflow includes **ETL, data cleaning, mapping table creation, dashboard wireframing**, and **visual storytelling**.
 
-**Tech Stack:** PostgreSQL, SQL, Google Looker Studio, Excel, PDF
+**Tech Stack:** 
+- PostgreSQL, SQL
+- Google Looker Studio
+-  Excel
 
 ---
 
