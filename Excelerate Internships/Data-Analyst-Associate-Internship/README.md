@@ -8,18 +8,6 @@
 
 ---
 
-## Presented By
-- Souvik Roy  
-- Sonta Ramesh  
-- Sumaya Mateen  
-- Soumya Ranjan Sahoo  
-- Sonam Sahu  
-- Sudip Deuja  
-- Subhadip Samanta  
-- Sukanta Nag Hirock  
-
----
-
 ## Overview
 This project consolidates **multiple educational datasets** into a **centralized Master Table** and builds an **interactive dashboard** for stakeholders.  
 The workflow includes **ETL, data cleaning, mapping table creation, dashboard wireframing**, and **visual storytelling**.
