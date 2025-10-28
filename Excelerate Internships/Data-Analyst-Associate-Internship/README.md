@@ -1,4 +1,4 @@
-# Learner Engagement & Campaign Analytics – Data Analyst Associate Internship (Excelerate)
+# Learner Engagement & Campaign Analytics
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue)
 ![SQL](https://img.shields.io/badge/SQL-Queries-green)
