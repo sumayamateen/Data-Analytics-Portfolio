@@ -1,23 +1,27 @@
-# Excelerate Data Analytics Internship
+# Excelerate Internship Projects
 
-## 📊 Project Overview
-Developed an Excel-based dashboard using Pivot Tables, Slicers, and Conditional Formatting to analyze sales performance across multiple product categories and regions.
+This folder contains all three internship tracks completed under the **Excelerate Early Internship Program (2025)**.
 
-## 🔧 Tools & Techniques
-- **Tools:** Microsoft Excel  
-- **Functions:** Lookup, Aggregate, Logical  
-- **Features:** KPIs, Dynamic Charts, Conditional Formatting  
+## 🎯 Overview
+During this internship series, I worked on real-world data analytics projects involving:
+- Data cleaning, transformation, and ETL
+- Business insights and storytelling
+- Visualization and dashboard creation
+- AI-powered analytics applications
 
-## 📈 Key Insights
-- Identified top-performing regions and product categories  
-- Highlighted monthly sales trends and performance gaps  
-- Designed automated summaries for management reviews  
+## 📁 Internship Tracks
+1. **[AI Data Analyst](./AI-Data-Analyst)**  
+   Leveraged AI tools and Python-based analysis for data-driven insights.
 
-## 🧠 Skills Demonstrated
-- Data Cleaning and Validation  
-- Business Metrics Analysis  
-- Interactive Dashboard Design  
+2. **[Data Visualization](./Data-Visualization)**  
+   Designed interactive Power BI dashboards to communicate insights clearly.
 
-## 📂 Files Included
-- `Excel_Dashboard.xlsx` – Main dashboard  
-- `Report.pdf` – Summary of insights  
+3. **[Data Analytics](./Data-Analytics)**  
+   Conducted Excel-based descriptive and trend analyses with dynamic KPIs.
+
+## 🧩 Skills Developed
+- Python (Pandas, Matplotlib)
+- SQL (Data Extraction & Joins)
+- Excel (Pivot Tables, Lookups, Conditional Formatting)
+- Power BI (Dashboard Design)
+- Data Cleaning and Transformation
