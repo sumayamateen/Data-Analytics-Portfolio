@@ -48,7 +48,7 @@ It combines **data cleaning, feature engineering, exploratory analysis, and mach
 - `2_Feature_Engineering.ipynb` → Creating engagement & derived features  
 - `3_EDA_&_Data_Visualization.ipynb` → Exploring learner behavior & dropout patterns  
 - `4_Predictive_Modeling.ipynb` → Building models to predict learner churn  
-- `presentation/Churn_Analysis_Presentation.pptx` → Summary of workflow, insights, and recommendations  
+- `Churn_Analysis_Presentation.pdf` → Summary of workflow, insights, and recommendations  
 
 ---
 
