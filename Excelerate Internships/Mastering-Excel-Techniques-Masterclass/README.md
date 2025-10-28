@@ -1,9 +1,3 @@
-# Sales Performance & Analytics Dashboard
-
-![Excel](https://img.shields.io/badge/Microsoft-Excel-green)
-![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-blue)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange)
-
 # Store Sales Analysis Dashboard
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-Data_Analysis-green)
@@ -114,5 +108,5 @@ The dataset contains **50 sales transactions** with the following key fields:
   - Dashboard  
 
 ---
-
-![Excel Dashboard Screenshot](./Dashboard_Screenshot.png)
+## 📈 Dashboard Preview
+<img width="1183" height="531" alt="Dashboard" src="https://github.com/user-attachments/assets/5a446fd0-c9ee-4286-83cb-a494a67f7ea5" />
