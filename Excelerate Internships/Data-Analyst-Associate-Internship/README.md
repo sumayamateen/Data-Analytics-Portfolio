@@ -25,7 +25,7 @@ This project consolidates **multiple educational datasets** into a **centralized
 The workflow includes **ETL, data cleaning, mapping table creation, dashboard wireframing**, and **visual storytelling**.
 
 **Tech Stack:** 
-- PostgreSQL, SQL
+- PostgreSQL
 - Google Looker Studio
 -  Excel
 
