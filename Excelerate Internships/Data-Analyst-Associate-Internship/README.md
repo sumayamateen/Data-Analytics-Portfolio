@@ -1,6 +1,6 @@
 # Learner Engagement & Campaign Analytics
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![SQL](https://img.shields.io/badge/SQL-Queries-green)
 ![ETL](https://img.shields.io/badge/ETL-Pipeline-orange)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-Dashboard-blue)
