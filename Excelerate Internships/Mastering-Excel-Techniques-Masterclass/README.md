@@ -1,4 +1,4 @@
-# Store Sales Analysis Dashboard
+# Store Sales Analysis & Dashboard
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-Data_Analysis-green)
 ![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-Analysis-orange)
