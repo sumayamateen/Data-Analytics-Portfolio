@@ -68,7 +68,7 @@ Each project demonstrates a complete data workflow — from data extraction and 
 - Churn prediction model with evaluation metrics  
 - Insight report with retention recommendations  
 
-🔗 [View Project →](./AI-Powered-Data-Insights-Internship/README.md)
+[View Project →](./AI-Powered-Data-Insights-Internship/README.md)
 
 ---
 
