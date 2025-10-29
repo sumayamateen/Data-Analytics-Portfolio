@@ -3,7 +3,7 @@
 ![Excelerate](https://img.shields.io/badge/Excelerate-Internship_Program-FF6B35)
 ![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB)
 ![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Classification-4CAF50)
-![SQL](https://img.shields.io/badge/SQL-ETL_Pipeline-336791)
+![SQL](https://img.shields.io/badge/SQL-ETL_Pipeline-217346)
 ![Excel](https://img.shields.io/badge/Excel-Business_Intelligence-FF6B6B)
 ![Looker_Studio](https://img.shields.io/badge/Looker_Studio-Visualization-4285F4)
 
