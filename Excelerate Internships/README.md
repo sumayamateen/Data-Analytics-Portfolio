@@ -1,11 +1,11 @@
 # Excelerate Data Internship Portfolio
 
-![Excelerate](https://img.shields.io/badge/Excelerate-Internship_Program-blue)
-![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB)
-![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Classification-green)
-![SQL](https://img.shields.io/badge/SQL-ETL_Pipeline-4479A1)
-![Excel](https://img.shields.io/badge/Excel-Business_Intelligence-217346)
-![Looker_Studio](https://img.shields.io/badge/Looker_Studio-Visualization-4285F4)
+![Excelerate](https://img.shields.io/badge/Excelerate-Internship_Program-%23FF6F61)
+![Python](https://img.shields.io/badge/Python-Data_Analysis-%233776AB)
+![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Classification-%234CAF50)
+![SQL](https://img.shields.io/badge/SQL-ETL_Pipeline-%23F4B400)
+![Excel](https://img.shields.io/badge/Excel-Business_Intelligence-%23217346)
+![Looker_Studio](https://img.shields.io/badge/Looker_Studio-Visualization-%234285F4)
 
 ---
 
@@ -68,7 +68,7 @@ Each project demonstrates a complete data workflow — from data extraction and 
 - Churn prediction model with evaluation metrics  
 - Insight report with retention recommendations  
 
-🔗 [View Project →](./AI-Powered-Data-Insights-Intern/README.md)
+🔗 [View Project →](./AI-Powered-Data-Insights-Internship/README.md)
 
 ---
 
@@ -104,14 +104,21 @@ Collaborated with cross-functional teams on two projects, applying effective com
 
 ---
 
+##  Business Impact Summary
+- **Churn Reduction:** Potential to decrease 31.8% student dropout rate
+- **Operational Efficiency:** 90% reduction in manual reporting time
+- **Revenue Optimization:** Identified top-performing products and regions
+- **Data-Driven Culture:** Enabled proactive decision-making across teams
+
+---
+
 ## Summary
 These internships collectively strengthened my ability to:
 - Build **end-to-end data pipelines and dashboards**  
 - Apply **machine learning** for predictive insights  
-- Translate data findings into **strategic business actions**
+- Translate data findings into **strategic business actions**  
 
+  
 **Total Duration:** 3 Internships | 12 Weeks (Virtual)  
 **Organization:** Excelerate Internship Program  
 **Role:** Data Analyst Intern
-
----
