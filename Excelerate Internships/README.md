@@ -61,7 +61,7 @@ Each project demonstrates a complete data workflow — from data extraction and 
 ###  Business Impact
 - Built a **Gradient Boosting model (91% accuracy)** to predict student churn  
 - Identified top churn drivers using EDA and correlation analysis  
-- Supported intervention strategies for over **8,500 learners**
+- Supported intervention strategies for over **8,558 learners**
 
 ### Key Deliverables
 - Data cleaning and feature-engineering pipeline  
