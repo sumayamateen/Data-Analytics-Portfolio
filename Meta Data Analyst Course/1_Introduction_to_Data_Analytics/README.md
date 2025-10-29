@@ -1,6 +1,7 @@
 # BrightThreads Boutique — Data Analytics Case Study  
 
 ![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-green)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Data_Analysis-blue)
 ![Statistics](https://img.shields.io/badge/Statistics-Modeling-orange)
 ![Visualization](https://img.shields.io/badge/Visualization-Insights-purple)
 ![Framework](https://img.shields.io/badge/Framework-OSEMN-ff69b4)
@@ -68,18 +69,18 @@ Using the **OSEMN framework** (Obtain, Scrub, Explore, Model, iNterpret), I appl
 ---
 
 ## Files Included  
-- `BrightThreads_Data_Analytics_Case_Study.pdf` — Exploratory and modeling 
-- `BrightThreads_Sales_Growth_Strategy.pdf` —  Final presentation & insights summary  
+- `BrightThreads_Data_Analytics_Case_Study.pdf` — Comprehensive analysis report
+- `BrightThreads_Sales_Growth_Strategy.pdf` — Executive summary & recommendations
 
 ---
 
 ## Framework Reference  
 **OSEMN Framework**  
-1️ Obtain → Data Collection  
-2️⃣ Scrub → Data Cleaning  
-3️⃣ Explore → EDA & Visualization  
-4️⃣ Model → Predictive Analytics  
-5️⃣ iNterpret → Business Insights  
+Obtain → Data Collection  
+Scrub → Data Cleaning  
+Explore → EDA & Visualization  
+Model → Predictive Analytics  
+iNterpret → Business Insights  
 
 ---
 
