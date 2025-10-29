@@ -9,27 +9,6 @@
 
 ---
 
-![Excelerate](https://img.shields.io/badge/Excelerate-Internship_Program-0052CC)
-![Python](https://img.shields.io/badge/Python-Data_Analysis-306998)
-![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Classification-FF6D00)
-![SQL](https://img.shields.io/badge/SQL-ETL_Pipeline-4479A1)
-![Excel](https://img.shields.io/badge/Excel-Business_Intelligence-107C10)
-![Looker_Studio](https://img.shields.io/badge/Looker_Studio-Visualization-FBBC05)
-
-![Excelerate](https://img.shields.io/badge/Excelerate-Internship_Program-E74C3C)
-![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB)
-![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Classification-27AE60)
-![SQL](https://img.shields.io/badge/SQL-ETL_Pipeline-F39C12)
-![Excel](https://img.shields.io/badge/Excel-Business_Intelligence-2980B9)
-![Looker_Studio](https://img.shields.io/badge/Looker_Studio-Visualization-8E44AD)
-
-![Excelerate](https://img.shields.io/badge/Excelerate-Internship_Program-FF6B6B)
-![Python](https://img.shields.io/badge/Python-Data_Analysis-4B8BBE)
-![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Classification-50C878)
-![SQL](https://img.shields.io/badge/SQL-ETL_Pipeline-F0AD4E)
-![Excel](https://img.shields.io/badge/Excel-Business_Intelligence-1F6B3F)
-![Looker_Studio](https://img.shields.io/badge/Looker_Studio-Visualization-4688F4)
-
 ## Overview
 This repository showcases my **three virtual data internships** completed under the **Excelerate Internship Program**, focusing on real-world business challenges across **data analysis, visualization, and AI modeling**.  
 Each project demonstrates a complete data workflow — from data extraction and cleaning to insights, visualization, and strategic recommendations.
