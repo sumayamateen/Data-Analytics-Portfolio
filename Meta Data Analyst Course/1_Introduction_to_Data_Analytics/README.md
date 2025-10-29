@@ -52,13 +52,18 @@ Using the **OSEMN framework** (Obtain, Scrub, Explore, Model, iNterpret), I appl
 
 ---
 
-## Skills Demonstrated  
-- Business goal setting & KPI development  
-- Data validation & cleaning (Excel, Python)  
-- Statistical analysis & data visualization  
-- Predictive modeling & feature engineering  
-- Stakeholder presentation & storytelling  
-- Strategic recommendation development  
+## Skills Demonstrated
+- Business goal setting & KPI development
+- Data validation & cleaning techniques
+- Statistical analysis and data visualization
+- Predictive modeling and machine learning applications
+- Stakeholder presentation & storytelling
+- Strategic recommendation development
+
+## Tools & Technologies
+- **Data Cleaning:** Excel, Google Sheets
+- **Analysis:** Statistical Analysis, Predictive Modeling
+- **Visualization:** Charts, Graphs, Presentation Tools
 
 ---
 
