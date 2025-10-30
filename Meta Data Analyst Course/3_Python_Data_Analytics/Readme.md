@@ -2,59 +2,84 @@
 
 ![Python](https://img.shields.io/badge/Python-Data_Cleaning-green)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-blue)
-![Seaborn](https://img.shields.io/badge/Seaborn-Data_Visualization-purple)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-purple)
 ![Statistics](https://img.shields.io/badge/Statistics-Exploratory_Analysis-orange)
 ![Framework](https://img.shields.io/badge/Framework-OSEMN-ff69b4)
-A comprehensive data analysis project following the OSEMN (Obtain, Scrub, Explore, Model, Interpret) framework to analyze pet store transaction data and derive actionable business insights.
 
-## Project Overview
+---
 
-This project analyzes pet store transaction data to understand sales patterns, product performance, and customer purchasing behavior. The analysis helps identify which product categories drive the most sales and provides recommendations for inventory optimization and business strategy.
+##  Overview  
+This project analyzes **pet store transaction data** to uncover **sales trends**, **product performance**, and **customer purchasing patterns**.  
+Using the **OSEMN framework**, it provides **data-driven recommendations** for improving inventory strategy and business decision-making.
 
-## Dataset
+---
 
-The dataset (`transactions-pet_store.csv`) contains 2,903 transaction records with the following features:
+## Business Context  
+- **Scenario:** Pet Store Retail Business  
+- **Challenge:** Identify top-performing product categories and optimize stock strategy  
+- **Objective:** Provide actionable insights for sales growth and profitability  
+- **Scope:** Analysis of **2,903 transaction records** across multiple product categories  
 
-- **Date**: Transaction date
-- **Order_Number**: Unique order identifier
-- **Customer_ID**: Customer identifier
-- **Product_Name**: Name of purchased product
-- **SKU**: Product stock keeping unit
-- **Price**: Product price
-- **Size**: Product size (removed due to high missing values)
-- **Quantity**: Number of items purchased
-- **Product_Category**: Category of product (treat, toy, bedding, food)
-- **Product_Line**: Type of pet (cat, dog)
+---
 
-## Analysis Framework
+## Framework Applied — OSEMN  
 
-### 1. **Data Scrubbing (Cleaning)**
-- Removed rows with missing product names or categories
-- Cleaned price outliers using quantile filtering
-- Dropped columns with excessive missing values (>500)
-- Handled missing customer IDs by filling with "Unknown"
+### Obtain & Scrub  
+- Imported and validated **2,903 records** from the raw dataset  
+- **Data Cleaning Steps:**  
+  - Removed missing `Product_Name` or `Product_Category` entries  
+  - Filtered price outliers using quantile thresholds (0.0001–0.999)  
+  - Dropped `Size` column with >500 null values  
+  - Replaced missing `Customer_ID` with `"Unknown"`  
+- **Feature Engineering:** Created a `Subtotal` column (`Price × Quantity`)
 
-### **Data Exploration**
-- Created `Subtotal` column (Price × Quantity)
-- Identified most popular product categories by sales volume
-- Analyzed product categories with highest median prices
-- Generated key business metrics and insights
+---
 
-### **Data Visualization**
-- Horizontal bar plots comparing sales across product categories
-- Enhanced visualizations for stakeholder presentations
-- Data labels and clear annotations for better interpretation
+### Explore  
+- Conducted **Exploratory Data Analysis (EDA)** to identify sales and pricing trends  
+- **Category Insights:**  
+  - Top-selling categories by product line  
+  - Median pricing comparison between cats and dogs  
+- **Visualizations:** Horizontal bar charts showing total sales by category  
 
-## Key Findings
+---
 
-### Sales Performance by Category
-| Product Line | Most Popular Category (Quantity) | Highest Priced Category |
-|--------------|----------------------------------|-------------------------|
-| **Cat**      | treats                           | bedding                 |
-| **Dog**      | bedding                          | toys                    |
+### Interpret & Present  
+- Translated analytical results into **business-focused insights**  
+- **Performance Summary:**  
+  - **Cats:** Treats (most popular), Bedding (highest price)  
+  - **Dogs:** Bedding (most popular), Toys (highest price)  
 
-### Business Insights
-- **Cat products dominate sales**, particularly toys and treats
-- **Dog bedding** performs strongly in the dog product line
-- Visual analysis reveals clear patterns in customer purchasing behavior
-- Recommendations consider both sales volume and pricing strategies
+---
+
+## Key Findings & Business Impact  
+
+### Performance Insights  
+- **Cat Products Dominate** overall sales volume  
+- **Category Leaders:** Treats and toys (cats), bedding (dogs)  
+- **Premium Segment:** Bedding drives higher median prices  
+- **Optimization Potential:** Cross-selling opportunities between product lines  
+
+### Strategic Recommendations  
+1. **Boost High Performers:** Prioritize cat toys/treats inventory  
+2. **Sustain Top Dog Category:** Continue investment in dog bedding  
+3. **Balance Volume vs. Margin:** Monitor both sales and profit contribution  
+4. **Plan Seasonally:** Adjust product mix based on demand trends  
+
+---
+
+## Framework Reference  
+
+**OSEMN Framework**  
+> **O** – Obtain → Data Collection & Import  
+> **S** – Scrub → Data Cleaning & Validation  
+> **E** – Explore → EDA & Statistical Analysis  
+> **M** – Model → Feature Engineering & Insights  
+> **N** – iNterpret → Business Intelligence & Recommendations  
+
+---
+
+## Project Context  
+**Course:** Python Data Analytics  
+**Program:** Meta Data Analyst with GenAI Professional Certificate  
+**Focus:** End-to-end data analysis project demonstrating real-world business application
