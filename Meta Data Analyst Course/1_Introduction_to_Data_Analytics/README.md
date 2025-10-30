@@ -85,6 +85,6 @@ iNterpret → Business Insights
 ---
 
 ## Project Context  
-**Course:** Introduction to Data Analytics
+**Course:** Introduction to Data Analytics  
 **Program:** Meta Data Analyst with GenAI Professional Certificate  
 **Focus:** End-to-end data analysis project demonstrating real-world business application
