@@ -71,11 +71,11 @@ Using the **OSEMN framework**, it provides **data-driven recommendations** for i
 ## Framework Reference  
 
 **OSEMN Framework**  
-> **O** – Obtain → Data Collection & Import  
-> **S** – Scrub → Data Cleaning & Validation  
-> **E** – Explore → EDA & Statistical Analysis  
-> **M** – Model → Feature Engineering & Insights  
-> **N** – iNterpret → Business Intelligence & Recommendations  
+**O** – Obtain → Data Collection & Import  
+**S** – Scrub → Data Cleaning & Validation  
+**E** – Explore → EDA & Statistical Analysis  
+**M** – Model → Feature Engineering & Insights  
+**N** – iNterpret → Business Intelligence & Recommendations  
 
 ---
 
