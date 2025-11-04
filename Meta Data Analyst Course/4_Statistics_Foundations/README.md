@@ -58,9 +58,8 @@ The marketing team aims to optimize ad budget allocation across platforms by det
 
 ### 4. Simple Linear Regression (Tableau)  
 **Model:**  
-\[
-Conversions = 0.204 \times Clicks + 2.77
-\]
+ 
+Facebook Ad Conversions = 0.204371*Facebook Ad Clicks + 2.76793
 
 - Built in **Tableau** using trend line and regression summary.  
 - Suggests every **+1 click** leads to **~0.2 conversions** on average.  
@@ -70,9 +69,9 @@ Conversions = 0.204 \times Clicks + 2.77
 
 ## Regression Visualization (Tableau)
 
-![Regression Chart]<img width="1161" height="469" alt="image" src="https://github.com/user-attachments/assets/b190d3bf-e415-4e8d-be5d-33ed02cfcacc" />
+<img width="1161" height="469" alt="image" src="https://github.com/user-attachments/assets/b190d3bf-e415-4e8d-be5d-33ed02cfcacc" />
 
-**Interactive Dashboard:** [View on Tableau Public]https://public.tableau.com/app/profile/sumaya.mateen/viz/Book1_17622622567270/RegressionModelFB  
+**Tableau Public:** https://public.tableau.com/app/profile/sumaya.mateen/viz/Book1_17622622567270/RegressionModelFB  
 
 ---
 
