@@ -106,5 +106,7 @@ Conversions = 0.204 \times Clicks + 2.77
 
 ---
 
-
-
+## Project Context  
+**Course:** Statistics Foundations 
+**Program:** Meta Data Analyst with GenAI Professional Certificate  
+**Focus:** End-to-end data analysis project demonstrating real-world business application
