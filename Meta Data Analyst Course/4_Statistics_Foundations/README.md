@@ -16,8 +16,7 @@ The goal is to identify which platform delivers **higher conversions**, test the
 - **Microsoft Excel** – Data cleaning, descriptive statistics, hypothesis testing  
 - **Tableau** – Regression analysis and data visualization  
 
-**Dataset:** Digital campaign data with impressions, clicks, conversions, and cost metrics for Facebook and AdWords.  
-**File:** `2_Statistics_of_Digital_Campaigns_Performance.pdf`
+**Dataset:** Digital campaign data with impressions, clicks, conversions, and cost metrics for Facebook and AdWords. 
 
 ---
 
@@ -66,6 +65,14 @@ Conversions = 0.204 \times Clicks + 2.77
 - Built in **Tableau** using trend line and regression summary.  
 - Suggests every **+1 click** leads to **~0.2 conversions** on average.  
 - Regression line shows **strong model fit (consistent with r = 0.87).**
+
+---
+
+## Regression Visualization (Tableau)
+
+![Regression Chart]<img width="1161" height="469" alt="image" src="https://github.com/user-attachments/assets/b190d3bf-e415-4e8d-be5d-33ed02cfcacc" />
+
+**Interactive Dashboard:** [View on Tableau Public]https://public.tableau.com/app/profile/sumaya.mateen/viz/Book1_17622622567270/RegressionModelFB  
 
 ---
 
