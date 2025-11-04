@@ -79,11 +79,11 @@ Facebook Ad Conversions = 0.204371*Facebook Ad Clicks + 2.76793
 
 | Finding | Observation |
 |----------|--------------|
-| Facebook produces **more conversions per click** | ✅ |
-| AdWords drives **traffic but low conversion efficiency** | ✅ |
-| Facebook’s click-to-conversion relationship is **predictable** | ✅ |
-| Statistical testing confirms **significant performance gap** | ✅ |
-| Regression supports Facebook as the **optimal platform** | ✅ |
+| Facebook produces **more conversions per click** 
+| AdWords drives **traffic but low conversion efficiency** 
+| Facebook’s click-to-conversion relationship is **predictable** 
+| Statistical testing confirms **significant performance gap** 
+| Regression supports Facebook as the **optimal platform** 
 
 ---
 
