@@ -1,4 +1,4 @@
-# Statistics of Digital Campaigns Performance
+# Digital Campaigns Performance Analysis
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-Statistical_Analysis-217346)
 ![Tableau](https://img.shields.io/badge/Tableau-Data_Visualization-005570)
@@ -22,9 +22,9 @@ The goal is to identify which platform delivers **higher conversions**, test the
 
 ## Business Objective  
 The marketing team aims to optimize ad budget allocation across platforms by determining:
-1. Which platform generates **more conversions per click**  
-2. Whether this difference is **statistically significant**  
-3. Which platform has **stronger correlation** between clicks and conversions  
+- Which platform generates **more conversions per click**  
+- Whether this difference is **statistically significant**  
+- Which platform has **stronger correlation** between clicks and conversions  
 
 ---
 
@@ -77,22 +77,22 @@ Facebook Ad Conversions = 0.204371*Facebook Ad Clicks + 2.76793
 
 ##  Key Findings  
 
-| Finding | Observation |
-|----------|--------------|
-| Facebook produces **more conversions per click** 
-| AdWords drives **traffic but low conversion efficiency** 
-| Facebook’s click-to-conversion relationship is **predictable** 
-| Statistical testing confirms **significant performance gap** 
-| Regression supports Facebook as the **optimal platform** 
+Finding
+
+Facebook produces **more conversions per click** 
+AdWords drives **traffic but low conversion efficiency** 
+Facebook’s click-to-conversion relationship is **predictable** 
+Statistical testing confirms **significant performance gap** 
+Regression supports Facebook as the **optimal platform** 
 
 ---
 
 ## Strategic Recommendations  
-1. **Reallocate Budget:** Shift ad spend toward **Facebook** for higher ROI.  
-2. **Optimize AdWords Funnel:** Improve ad targeting and landing pages to lift conversions.  
-3. **Scale Facebook Campaigns:** Utilize predictive regression insights for better forecasting.  
-4. **Monitor AdWords Correlation:** Set KPI target of **r ≥ 0.6** for performance improvement.  
-5. **Use Regression Outcomes:** Apply linear model to predict conversion growth scenarios.
+- **Reallocate Budget:** Shift ad spend toward **Facebook** for higher ROI.  
+- **Optimize AdWords Funnel:** Improve ad targeting and landing pages to lift conversions.  
+- **Scale Facebook Campaigns:** Utilize predictive regression insights for better forecasting.  
+- **Monitor AdWords Correlation:** Set KPI target of **r ≥ 0.6** for performance improvement.  
+- **Use Regression Outcomes:** Apply linear model to predict conversion growth scenarios.
 
 ---
 
