@@ -68,6 +68,12 @@ Using the **OSEMN framework**, it provides **data-driven recommendations** for i
 
 ---
 
+## Profitability Analysis of Pet Products Visualization (Tableau)
+<img width="1171" height="490" alt="image" src="https://github.com/user-attachments/assets/28856499-ebea-47c0-b6e6-5d346ad8db82" />
+
+**Tableau Public:** https://public.tableau.com/app/profile/sumaya.mateen/viz/MetaAssignment_17618077249700/MostProfitableProductsDashboard2
+
+
 ## Framework Reference  
 
 **OSEMN Framework**  
