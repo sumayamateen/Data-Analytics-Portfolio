@@ -114,7 +114,8 @@ Executed SQL-like queries using **Google Sheets QUERY function** for data explor
 | `AVG()`, `SUM()`, `MAX()`, `MIN()` | Calculate key performance metrics |
 | Conditional expressions | Analyze filtered patterns and KPIs |
 
-[View Interactive Dashboard →]https://docs.google.com/spreadsheets/d/18q1ex-GEzD1l5qjpdhAf7B6X1F7EaQyAJ4ZtaEzPN5A/edit?usp=sharing
+**[View Google Sheets SQL Workbook →](https://docs.google.com/spreadsheets/d/18q1ex-GEzD1l5qjpdhAf7B6X1F7EaQyAJ4ZtaEzPN5A/edit?usp=sharing)**
+
 ---
 
 ## Technical Implementation  
