@@ -9,11 +9,10 @@
 ![Statistics](https://img.shields.io/badge/Statistics-Modeling-DC143C)
 ![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Classification-1E90FF)
 
-
-
 ---
 
 ## Overview
+
 This portfolio showcases my **virtual data internships** and **certified projects** completed under the **Excelerate Internship Program** and **Meta Data Analyst with GenAI Professional Certificate**.  
 It demonstrates **end-to-end data workflows**, including **data cleaning, transformation, analysis, visualization, predictive modeling**, and **business insight delivery**.
 
@@ -25,86 +24,86 @@ It demonstrates **end-to-end data workflows**, including **data cleaning, transf
 
 ---
 
-## 📊 Excelerate Internship Projects
+## Excelerate Internship Projects
 
-### 🎯 Student Churn Analysis & Prediction  
+### Student Churn Analysis & Prediction  
 - **Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn  
 - **Highlights:**  
   - Built Gradient Boosting model with **91% accuracy**  
   - Identified key churn drivers and retention insights  
   - Analyzed data from **8,558 learners**
 
-[📂 View Project Files →](Excelerate%20Internships/AI-Powered-Data-Insights-Internship/)
+[View Project Files →](Excelerate%20Internships/AI-Powered-Data-Insights-Internship/)
 
 ---
 
-### 🌍 Learner Engagement & Campaign Analytics Dashboard  
+### Learner Engagement & Campaign Analytics Dashboard  
 - **Tech Stack:** PostgreSQL, SQL, Looker Studio, Excel  
 - **Highlights:**  
   - Integrated **5 relational datasets** into one master table  
   - Automated reporting — **90% time saved**  
   - Dashboard delivered insights across **52K learners in 146 countries**
 
-[📂 View Project Files →](Excelerate%20Internships/Data-Analyst-Associate-Internship/)
+[View Project Files →](Excelerate%20Internships/Data-Analyst-Associate-Internship/)
 
 ---
 
-### 🏪 Store Sales Analysis & Dashboard  
+### Store Sales Analysis & Dashboard  
 - **Tech Stack:** Microsoft Excel  
 - **Highlights:**  
   - Analyzed **$140K sales** across products and regions  
   - Built automated KPI dashboard with slicers & visuals  
   - Identified **top products and profitable regions**
 
-[📂 View Project Files →](Excelerate%20Internships/Mastering-Excel-Techniques-Masterclass/)
+[View Project Files →](Excelerate%20Internships/Mastering-Excel-Techniques-Masterclass/)
 
 ---
 
-## 🎓 Meta Data Analyst Course Projects
+## Meta Data Analyst Course Projects
 
-### 🧵 BrightThreads Boutique — Data Analytics Case Study  
+### BrightThreads Boutique — Data Analytics Case Study  
 - **Tech Stack:** Excel, Google Sheets  
 - **Highlights:**  
   - Cleaned and analyzed retail data  
   - Designed predictive model for **10% sales growth target**  
   - Applied OSEMN framework for complete analysis lifecycle  
 
-[📂 View Project Files →](Meta%20Data%20Analyst%20Course/1_Introduction_to_Data_Analytics/)
+[View Project Files →](Meta%20Data%20Analyst%20Course/1_Introduction_to_Data_Analytics/)
 
 ---
 
-### 🛒 Customer Data Analysis  
+### Customer Data Analysis  
 - **Tech Stack:** Excel, Google Sheets, SQL  
 - **Highlights:**  
   - Cleaned e-commerce data and removed duplicates/cancellations  
   - Correlation and regression for pricing and inventory insights  
 
-[📂 View Project Files →](Meta%20Data%20Analyst%20Course/2_Data_Analysis_with_Spreadsheets_and_SQL/)
+[View Project Files →](Meta%20Data%20Analyst%20Course/2_Data_Analysis_with_Spreadsheets_and_SQL/)
 
 ---
 
-### 🐾 Pet Store Transactions Analysis  
+### Pet Store Transactions Analysis  
 - **Tech Stack:** Python, Pandas, Seaborn, Tableau  
 - **Highlights:**  
   - Cleaned **2,903 transactions** and explored sales trends  
   - Created Tableau dashboard for **inventory optimization**
 
-[📂 View Project Files →](Meta%20Data%20Analyst%20Course/3_Python_Data_Analytics/)
+[View Project Files →](Meta%20Data%20Analyst%20Course/3_Python_Data_Analytics/)
 
 ---
 
-### 📢 Digital Campaigns Performance Analysis  
+### Digital Campaigns Performance Analysis  
 - **Tech Stack:** Excel, Tableau  
 - **Highlights:**  
   - Compared **Facebook vs AdWords** ROI performance  
   - Used **correlation, t-tests, and regression modeling**  
   - Identified optimal platform for ad budget allocation  
 
-[📂 View Project Files →](Meta%20Data%20Analyst%20Course/4_Statistics_Foundations/)
+[View Project Files →](Meta%20Data%20Analyst%20Course/4_Statistics_Foundations/)
 
 ---
 
-## 🧠 Skills & Tools
+## Skills & Tools
 
 ### Technical
 - **Languages:** Python, SQL, Excel Formulas, Google Sheets Query  
@@ -121,7 +120,7 @@ It demonstrates **end-to-end data workflows**, including **data cleaning, transf
 
 ---
 
-## 🏆 Portfolio Highlights
+## Portfolio Highlights
 
 | Project | Scale | Key Achievement | Business Impact |
 |----------|--------|-----------------|-----------------|
@@ -135,9 +134,29 @@ It demonstrates **end-to-end data workflows**, including **data cleaning, transf
 
 ---
 
-## 📈 Summary
-This portfolio demonstrates my ability to:  
-✅ Build **end-to-end data pipelines** and **dashboards**  
-✅ Perform **statistical & predictive modeling**  
-✅ Communicate **data-driven insights** effectively  
-✅ Turn data findings into **strategic business actions**  
+## 💼 Professional Summary
+
+I’m a **Data Analyst specializing in Data Visualization, Business Intelligence, and Predictive Analytics**, with hands-on experience across **Excelerate Internship Programs** and the **Meta Data Analyst Professional Certificate**.  
+
+I bring together **data engineering, analytics, and storytelling** to transform raw datasets into actionable insights and dashboards that drive real business value.  
+
+I enjoy building **automated data pipelines**, designing **insightful visual dashboards**, and delivering **data-backed strategies** for growth and decision-making.  
+
+> **I turn data into stories that help organizations see beyond the numbers.**  
+
+---
+
+## 📫 Let’s Connect
+
+- **📧 Email:** [sumayamateen@gmail.com](mailto:sumayamateen@gmail.com)  
+- **💼 LinkedIn:** [linkedin.com/in/sumayamateen](https://linkedin.com/in/sumayamateen)  
+- **📊 GitHub Portfolio:** [github.com/SumayaMateen](https://github.com/SumayaMateen)  
+- **📍 Location:** Karachi, Pakistan | Open to **Remote / Hybrid** Roles  
+
+---
+
+## 🏷️ Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=SumayaMateen&color=blue)  
+
+[⬆️ Back to Top](#sumaya-mateen---data-analytics--visualization-portfolio)
