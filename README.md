@@ -164,7 +164,3 @@ This portfolio demonstrates my ability to:
 - Perform **statistical and predictive analysis** to inform business decisions  
 - Visualize and communicate insights effectively to stakeholders  
 - Translate data findings into **strategic actions**  
-
-**Total Duration:** 3 Internships + 4 Course Projects | **~16–20 weeks**  
-**Roles:** Data Analyst Intern & Project Analyst  
-**Organizations:** Excelerate Internship Program, Meta Data Analyst Program
