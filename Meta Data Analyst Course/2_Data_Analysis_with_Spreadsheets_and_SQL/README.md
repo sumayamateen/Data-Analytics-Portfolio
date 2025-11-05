@@ -142,11 +142,9 @@ Executed SQL-like queries using **Google Sheets QUERY function** for data explor
 
 ## Files Included
 
-| File | Description |
-|------|-------------|
-| `1_Cleaning_&_Exploring.xlsx` | Main Excel workbook with the full analysis pipeline |
-| `2_Extracting_Data_with_SQL` | Google Sheets SQL queries |
-| `README.md` | Project documentation (this file) |
+- [1_Cleaning_&_Exploring.xlsx](1_Cleaning_&_Exploring.xlsx) — Main Excel workbook with the full analysis pipeline
+- [2_Extracting_Data_with_SQL](2_Extracting_Data_with_SQL) — Google Sheets SQL queries
+
 
 ## Tools & Techniques  
 
