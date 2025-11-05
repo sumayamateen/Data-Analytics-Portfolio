@@ -69,7 +69,7 @@ The goal was to uncover actionable insights into **customer purchasing behavior*
 - **Top Product:** “ASSORTED COLOUR BIRD ORNAMENT” (~\$1,160 revenue)  
 - **Customer Distribution:** 87% UK-based, 13% international  
 
-![Customer_Sales_Dashboard]<img width="883" height="522" alt="image" src="https://github.com/user-attachments/assets/cd5efb11-471c-4664-a8e6-d6eb2bf386be" />
+Visualization<img width="883" height="522" alt="image" src="https://github.com/user-attachments/assets/cd5efb11-471c-4664-a8e6-d6eb2bf386be" />
 ---
 
 ### **5. Model Data (Linear Regression)**  
@@ -114,6 +114,7 @@ Executed SQL-like queries using **Google Sheets QUERY function** for data explor
 | `AVG()`, `SUM()`, `MAX()`, `MIN()` | Calculate key performance metrics |
 | Conditional expressions | Analyze filtered patterns and KPIs |
 
+[View Interactive Dashboard →]https://docs.google.com/spreadsheets/d/18q1ex-GEzD1l5qjpdhAf7B6X1F7EaQyAJ4ZtaEzPN5A/edit?usp=sharing
 ---
 
 ## Technical Implementation  
