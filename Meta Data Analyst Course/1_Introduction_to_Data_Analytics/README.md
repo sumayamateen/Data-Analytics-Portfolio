@@ -69,7 +69,7 @@ Using the **OSEMN framework** (Obtain, Scrub, Explore, Model, iNterpret), I appl
 ---
 
 ## Files Included
-- [BrightThreads_Data_Analytics_Case_Study.pdf](./1_Introduction_to_Data_Analytics/BrightThreads_Data_Analytics_Case_Study.pdf) — Comprehensive analysis report
+- [BrightThreads_Data_Analytics_Case_Study.pdf](BrightThreads_Data_Analytics_Case_Study.pdf) — Comprehensive analysis report
 - [BrightThreads_Sales_Growth_Strategy.pdf](BrightThreads_Sales_Growth_Strategy.pdf) — Executive summary & recommendations
 
 ---
