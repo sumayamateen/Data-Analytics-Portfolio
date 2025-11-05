@@ -105,6 +105,12 @@ Regression supports Facebook as the **optimal platform**
 
 ---
 
+## Files Included
+
+- [1_Digital_Campaigns_Performance_Metrics.xlsx](./4_Statistics_Foundations/1_Digital_Campaigns_Performance_Metrics.xlsx) — Excel workbook with campaign performance metrics
+- [2_Statistics_of_Digital_Campaigns_Performance.pdf](./4_Statistics_Foundations/2_Statistics_of_Digital_Campaigns_Performance.pdf) — PDF presentation with campaign statistical analysis
+---
+
 ## Tools & Techniques  
 - **Excel:** Descriptive Statistics, Histogram, Scatter Plot, Correlation, Two-Sample t-Test  
 - **Tableau:** Simple Linear Regression, Visual Storytelling  
