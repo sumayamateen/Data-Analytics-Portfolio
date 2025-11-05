@@ -69,6 +69,7 @@ The goal was to uncover actionable insights into **customer purchasing behavior*
 - **Top Product:** “ASSORTED COLOUR BIRD ORNAMENT” (~\$1,160 revenue)  
 - **Customer Distribution:** 87% UK-based, 13% international  
 
+![Customer_Sales_Dashboard]<img width="883" height="522" alt="image" src="https://github.com/user-attachments/assets/cd5efb11-471c-4664-a8e6-d6eb2bf386be" />
 ---
 
 ### **5. Model Data (Linear Regression)**  
@@ -78,6 +79,7 @@ The goal was to uncover actionable insights into **customer purchasing behavior*
 \[
 \text{Price} = -0.0029 \times \text{Quantity} + 3.31
 \]
+
 
 **Interpretation:**  
 Indicates a **weak negative correlation**, supporting the **demand curve principle** — higher quantity tends to associate with slightly lower prices.
@@ -129,7 +131,8 @@ Executed SQL-like queries using **Google Sheets QUERY function** for data explor
 
 ---
 
-## Recommendations  
+## Recommendations
+
 1. **Expand International Markets:** Target France and Germany for regional growth  
 2. **Leverage Peak Hours:** Optimize ads and discounts between **11 AM – 12 PM**  
 3. **Product Strategy:** Double down on high-margin home décor and kitchen products  
@@ -137,21 +140,26 @@ Executed SQL-like queries using **Google Sheets QUERY function** for data explor
 
 ---
 
-## Files Included  
 
-'1_Cleaning_&_Exploring.xlsx' — Excel data cleaning & analysis workbook
-'2_Extracting_Data_with_SQL' — SQL exploration in Google Sheets
-README.md # Documentation file
+## Files Included
+
+| File | Description |
+|------|-------------|
+| `1_Cleaning_&_Exploring.xlsx` | Main Excel workbook with the full analysis pipeline |
+| `2_Extracting_Data_with_SQL` | Google Sheets SQL queries |
+| `README.md` | Project documentation (this file) |
 
 ## Tools & Techniques  
+
 - **Microsoft Excel:** Data Cleaning • Pivot Tables • Charts • Descriptive Stats  
 - **Google Sheets:** SQL-like Queries (QUERY function)  
 - **Statistical Methods:** Correlation • Regression • Hypothesis-based Analysis  
-- **Visualization:** Aggregation charts • Peak-hour sales trend plots  
-
+- **Visualization:** Aggregation charts • Peak-hour sales trend plots
+- 
 ---
 
 ## Project Context  
+
 **Course:** Data Analysis with Spreadsheets and SQL  
 **Program:** Meta Data Analyst with GenAI Professional Certificate  
 **Focus:** Applying spreadsheet-based analytics and SQL techniques for business intelligence  
