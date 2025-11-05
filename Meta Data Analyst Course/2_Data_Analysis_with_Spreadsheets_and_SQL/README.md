@@ -76,10 +76,7 @@ Visualization<img width="883" height="522" alt="image" src="https://github.com/u
 **Objective:** Examine the price–quantity relationship to understand demand patterns.  
 
 **Regression Formula:**
-\[
-\text{Price} = -0.0029 \times \text{Quantity} + 3.31
-\]
-
+Price = -0.0029 × Quantity + 3.31
 
 **Interpretation:**  
 Indicates a **weak negative correlation**, supporting the **demand curve principle** — higher quantity tends to associate with slightly lower prices.
