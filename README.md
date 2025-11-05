@@ -11,49 +11,57 @@
 
 ---
 
-## Overview
+## Professional Summary
 
-This portfolio showcases my **virtual data internships** and **certified projects** completed under the **Excelerate Internship Program** and **Meta Data Analyst with GenAI Professional Certificate**.  
-It demonstrates **end-to-end data workflows**, including **data cleaning, transformation, analysis, visualization, predictive modeling**, and **business insight delivery**.
+Data Analyst specializing in **Data Visualization, Business Intelligence, and Predictive Analytics**, with hands-on experience across **Excelerate Internship Programs** and **Meta Data Analyst Professional Certificate**.  
+I transform raw data into actionable insights, reporting dashboards, and data-driven strategies that drive business value.  
 
-**Key Areas:**
-- **Excel, Google Sheets, SQL** – Cleaning, KPIs, dashboards  
-- **Python (Pandas, Matplotlib, Seaborn)** – EDA & modeling  
-- **Tableau & Looker Studio** – Visual storytelling  
-- **Statistics & ML** – Correlation, regression, classification  
+**Open to:** Data Analyst, Business Intelligence Analyst, Data Visualization Specialist  
+---
+
+## Portfolio Overview
+
+Showcases **end-to-end data workflows** from virtual internships and certified projects: data cleaning, transformation, analysis, visualization, predictive modeling, and business insight delivery.
+
+**Key Skills & Tools:**
+- **Programming & Databases:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL (PostgreSQL, JOINs, aggregation), ETL, relational databases  
+- **Analytics & Visualization:** Advanced Excel, Google Sheets, Pivot Tables, Tableau, Looker Studio, interactive dashboards  
+- **Statistics & Modeling:** Hypothesis testing, correlation, regression, A/B testing, Gradient Boosting, feature engineering  
+- **Business Intelligence:** KPI development, stakeholder communication, agile methodologies, data-driven decision making  
 
 ---
 
 ## Excelerate Internship Projects
 
-### Student Churn Analysis & Prediction  
+### Student Churn Analysis & Prediction
 - **Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn  
-- **Highlights:**  
-  - Built Gradient Boosting model with **91% accuracy**  
-  - Identified key churn drivers and retention insights  
-  - Analyzed data from **8,558 learners**
+- **Highlights:**
+  - Gradient Boosting model with **91% accuracy**  
+  - Key churn drivers identified via EDA & correlation analysis  
+  - Insights delivered to **8,558 learners**, reducing churn by 31.8%  
 
 [View Project Files →](Excelerate%20Internships/AI-Powered-Data-Insights-Internship/)
 
 ---
 
-### Learner Engagement & Campaign Analytics Dashboard  
+### Learner Engagement & Campaign Analytics Dashboard
 - **Tech Stack:** PostgreSQL, SQL, Looker Studio, Excel  
-- **Highlights:**  
-  - Integrated **5 relational datasets** into one master table  
-  - Automated reporting — **90% time saved**  
-  - Dashboard delivered insights across **52K learners in 146 countries**
+- **Highlights:**
+  - Unified **5 relational datasets** into master table using ETL  
+  - Automated reporting pipeline, reducing manual analysis by 90%  
+  - Dashboard served **52K+ learners in 146 countries**  
+  - Enabled real-time tracking of learner progress and campaign performance  
 
 [View Project Files →](Excelerate%20Internships/Data-Analyst-Associate-Internship/)
 
 ---
 
-### Store Sales Analysis & Dashboard  
-- **Tech Stack:** Microsoft Excel  
-- **Highlights:**  
-  - Analyzed **$140K sales** across products and regions  
-  - Built automated KPI dashboard with slicers & visuals  
-  - Identified **top products and profitable regions**
+### Store Sales Analysis & Dashboard
+- **Tech Stack:** Microsoft Excel, Pivot Tables, Advanced Formulas  
+- **Highlights:**
+  - Analyzed **$140K+ sales** across multiple products and regions  
+  - Interactive Excel dashboard with automated KPIs  
+  - Identified top-performing products and regions  
 
 [View Project Files →](Excelerate%20Internships/Mastering-Excel-Techniques-Masterclass/)
 
@@ -61,102 +69,82 @@ It demonstrates **end-to-end data workflows**, including **data cleaning, transf
 
 ## Meta Data Analyst Course Projects
 
-### BrightThreads Boutique — Data Analytics Case Study  
+### BrightThreads Boutique — Data Analytics Case Study
 - **Tech Stack:** Excel, Google Sheets  
-- **Highlights:**  
-  - Cleaned and analyzed retail data  
-  - Designed predictive model for **10% sales growth target**  
-  - Applied OSEMN framework for complete analysis lifecycle  
+- **Highlights:**
+  - Complete data cleaning and validation  
+  - Applied OSEMN framework and predictive modeling  
+  - Achieved **10% sales growth target**  
 
 [View Project Files →](Meta%20Data%20Analyst%20Course/1_Introduction_to_Data_Analytics/)
 
 ---
 
-### Customer Data Analysis  
+### Customer Data Analysis
 - **Tech Stack:** Excel, Google Sheets, SQL  
-- **Highlights:**  
+- **Highlights:**
   - Cleaned e-commerce data and removed duplicates/cancellations  
-  - Correlation and regression for pricing and inventory insights  
+  - Correlation & regression analysis for pricing and inventory  
+  - SQL queries for efficient data exploration  
 
 [View Project Files →](Meta%20Data%20Analyst%20Course/2_Data_Analysis_with_Spreadsheets_and_SQL/)
 
 ---
 
-### Pet Store Transactions Analysis  
+### Pet Store Transactions Analysis
 - **Tech Stack:** Python, Pandas, Seaborn, Tableau  
-- **Highlights:**  
-  - Cleaned **2,903 transactions** and explored sales trends  
-  - Created Tableau dashboard for **inventory optimization**
+- **Highlights:**
+  - Cleaned and analyzed **2,903 transactions**  
+  - Tableau dashboard for inventory optimization  
+  - Identified top-selling categories and most profitable products  
 
 [View Project Files →](Meta%20Data%20Analyst%20Course/3_Python_Data_Analytics/)
 
 ---
 
-### Digital Campaigns Performance Analysis  
-- **Tech Stack:** Excel, Tableau  
-- **Highlights:**  
-  - Compared **Facebook vs AdWords** ROI performance  
-  - Used **correlation, t-tests, and regression modeling**  
-  - Identified optimal platform for ad budget allocation  
+### Digital Campaigns Performance Analysis
+- **Tech Stack:** Excel, Tableau, Statistical Testing  
+- **Highlights:**
+  - Compared Facebook vs. AdWords ROI  
+  - Applied correlation, t-tests, and regression modeling  
+  - Provided recommendations for optimal ad budget allocation  
 
 [View Project Files →](Meta%20Data%20Analyst%20Course/4_Statistics_Foundations/)
 
 ---
 
-## Skills & Tools
-
-### Technical
-- **Languages:** Python, SQL, Excel Formulas, Google Sheets Query  
-- **Data Engineering:** ETL, data pipelines, normalization  
-- **Visualization:** Tableau, Looker Studio, Matplotlib, Seaborn  
-- **Modeling:** Correlation, Regression, Gradient Boosting  
-- **BI & Reporting:** Dashboards, KPIs, trend analysis  
-
-### Business
-- Problem definition & analytical goal-setting  
-- Insight storytelling for decision-making  
-- Stakeholder communication & presentation  
-- Agile teamwork & project management  
-
----
-
-## Portfolio Highlights
+## Portfolio Impact Summary
 
 | Project | Scale | Key Achievement | Business Impact |
-|----------|--------|-----------------|-----------------|
-| Churn Prediction | 8.5K learners | 91% model accuracy | Reduced 31.8% churn risk |
-| Engagement Dashboard | 52K learners / 146 countries | Unified 5 datasets | 90% less manual reporting |
-| Sales Dashboard | $140K sales | Automated Excel KPIs | Identified top products |
-| BrightThreads Case | Boutique data | Predictive modeling | Achieved 10% sales goal |
-| Customer Data | 45 orders | Regression & SQL | Pricing insights |
-| Pet Store | 2,903 transactions | Tableau dashboard | Optimized inventory |
-| Campaign Analysis | 2 platforms | Statistical testing | ROI optimization |
+|---------|-------|----------------|----------------|
+| Churn Prediction | 8,558 learners | 91% model accuracy | Reduced 31.8% churn risk |
+| Engagement Dashboard | 52K learners / 146 countries | Unified 5 datasets | 90% reduction in manual reporting |
+| Sales Analysis | $140K+ sales | Interactive Excel dashboard | Identified top revenue streams |
+| BrightThreads Case | Retail analytics | Predictive modeling | Achieved 10% sales growth target |
+| Customer Analytics | E-commerce data | Regression analysis | Optimized pricing strategy |
+| Pet Store Analysis | 2,903 transactions | Tableau dashboard | Improved inventory management |
+| Campaign Analysis | Multi-platform | Statistical testing | Enhanced ROI on ad spend |
 
 ---
 
-## 💼 Professional Summary
-
-I’m a **Data Analyst specializing in Data Visualization, Business Intelligence, and Predictive Analytics**, with hands-on experience across **Excelerate Internship Programs** and the **Meta Data Analyst Professional Certificate**.  
-
-I bring together **data engineering, analytics, and storytelling** to transform raw datasets into actionable insights and dashboards that drive real business value.  
-
-I enjoy building **automated data pipelines**, designing **insightful visual dashboards**, and delivering **data-backed strategies** for growth and decision-making.  
-
-> **I turn data into stories that help organizations see beyond the numbers.**  
+## Certifications & Education
+- Meta Data Analyst with GenAI Professional Certificate - Meta  
+- Excelerate Data Analytics Virtual Internship Program - Excelerate  
+- Statistics Foundations - Meta  
+- Python for Data Analytics - Meta  
+- SQL & Spreadsheets for Data Analysis - Meta  
 
 ---
 
-## 📫 Let’s Connect
+## Connect With Me
+[![LinkedIn]www.linkedin.com/in/sumaya-mateen-73659b347] 
+[![Tableau](https://img.shields.io/badge/Tableau-View_My_Visualizations-orange?logo=tableau&style=for-the-badge)](https://public.tableau.com/app/profile/sumaya.mateen)  
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Code-black?logo=github&style=for-the-badge)](https://github.com/SumayaMateen)  
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&style=for-the-badge)](mailto:sumayamateen@gmail.com)  
 
-- **📧 Email:** [sumayamateen@gmail.com](mailto:sumayamateen@gmail.com)  
-- **💼 LinkedIn:** [linkedin.com/in/sumayamateen](https://linkedin.com/in/sumayamateen)  
-- **📊 GitHub Portfolio:** [github.com/SumayaMateen](https://github.com/SumayaMateen)  
-- **📍 Location:** Karachi, Pakistan | Open to **Remote / Hybrid** Roles  
+Download My Resume: [Resume.pdf](Resume.pdf)
 
 ---
 
-## 🏷️ Profile Stats
+> **"Transforming raw data into strategic advantage through analytical excellence and compelling visualizations"**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=SumayaMateen&color=blue)  
-
-[⬆️ Back to Top](#sumaya-mateen---data-analytics--visualization-portfolio)
