@@ -34,6 +34,7 @@ The portfolio spans:
 - Delivered insights across **52K learners** in **146 countries**  
 - ETL stored procedure, dashboard, and outreach recommendations  
 
+[View Project →](./Excelerate Internships/Data-Analyst-Associate-Internship/README.md)
 [View Project →](./Data-Analyst-Associate-Internship/README.md)
 
 ---
