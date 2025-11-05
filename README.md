@@ -1,13 +1,14 @@
 # Sumaya Mateen — Data Analytics & Visualization Portfolio
 
-![Excelerate](https://img.shields.io/badge/Excelerate-Internship_Program-F97316)
-![Meta](https://img.shields.io/badge/Meta-Data_Analyst_Program-1877F2)
-![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB)
-![SQL](https://img.shields.io/badge/SQL-Data_Exploration-00618A)
-![Excel](https://img.shields.io/badge/Excel-Business_Intelligence-217346)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627)
-![Statistics](https://img.shields.io/badge/Statistics-Modeling-9C27B0)
-![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Classification-00BFA5)
+![Excelerate](https://img.shields.io/badge/Excelerate-Internship_Program-FF6F61)
+![Meta](https://img.shields.io/badge/Meta-Data_Analyst_Program-0072B2)
+![Python](https://img.shields.io/badge/Python-Data_Analysis-FFD43B)
+![SQL](https://img.shields.io/badge/SQL-Data_Exploration-8A2BE2)
+![Excel](https://img.shields.io/badge/Excel-Business_Intelligence-2E8B57)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-FF8C00)
+![Statistics](https://img.shields.io/badge/Statistics-Modeling-DC143C)
+![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Classification-1E90FF)
+
 
 
 ---
