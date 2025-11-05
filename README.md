@@ -139,10 +139,12 @@ Showcases **end-to-end data workflows** from virtual internships and certified p
 
 ## Connect With Me
 
+## Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sumaya-mateen-73659b347)  
 [![Tableau](https://img.shields.io/badge/Tableau-View_My_Visualizations-orange?logo=tableau&style=for-the-badge)](https://public.tableau.com/app/profile/sumaya.mateen)  
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Code-black?logo=github&style=for-the-badge)](https://github.com/SumayaMateen)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&style=for-the-badge)](mailto:sumayamateen6@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Code-black?logo=github&style=for-the-badge)](https://github.com/SumayaMateen)  
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&style=for-the-badge)](mailto:sumayamateen6@gmail.com)
 
 Download My Resume: [Resume.pdf](Resume.pdf)
 
