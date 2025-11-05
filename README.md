@@ -72,7 +72,7 @@ The portfolio spans:
 - Full data cleaning, validation, and KPI definition  
 - Customer segmentation & sales growth prediction (10% target)  
 - Deliverables:  
-  - [`BrightThreads_Data_Analytics_Case_Study.pdf`](./1_Introduction_to_Data_Analytics/BrightThreads_Data_Analytics_Case_Study.pdf)  
+  - [`BrightThreads_Data_Analytics_Case_Study.pdf`](1_Introduction_to_Data_Analytics/BrightThreads_Data_Analytics_Case_Study.pdf)  
   - [`BrightThreads_Sales_Growth_Strategy.pdf`](./1_Introduction_to_Data_Analytics/BrightThreads_Sales_Growth_Strategy.pdf)  
 
 [View Project →](./1_Introduction_to_Data_Analytics/README.md)
