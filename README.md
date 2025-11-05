@@ -23,97 +23,82 @@ It demonstrates **end-to-end data workflows**, including **data cleaning, transf
 
 ---
 
-## ⚙️ Excelerate Internship Projects
+## 📊 Excelerate Internship Projects
 
-### 1️⃣ Learner Engagement & Campaign Analytics Dashboard  
-**Tech Stack:** PostgreSQL, SQL, Looker Studio, Excel  
+### 🎯 Student Churn Analysis & Prediction  
+- **Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn  
+- **Highlights:**  
+  - Built Gradient Boosting model with **91% accuracy**  
+  - Identified key churn drivers and retention insights  
+  - Analyzed data from **8,558 learners**
 
-**Impact:**
-- Integrated **5 relational datasets** into a master table  
-- Automated reporting → **90% reduction in manual effort**  
-- Delivered insights across **52K learners** in **146 countries**
-
-📂 [View Project Files →](./Excelerate_Internships/Data-Analyst-Associate-Internship/)
-
----
-
-### 2️⃣ Store Sales Analysis & Dashboard  
-**Tech Stack:** Microsoft Excel  
-
-**Impact:**
-- Analyzed **$140K in sales** across multiple regions and products  
-- Built **interactive dashboards** with automated KPIs  
-- Identified **top-performing products and regions**
-
-📂 [View Project Files →](./Excelerate_Internships/Mastering-Excel-Techniques-Masterclass/)
+[📂 View Project Files →](Excelerate%20Internships/AI-Powered-Data-Insights-Internship/)
 
 ---
 
-### 3️⃣ Student Churn Analysis & Prediction  
-**Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn  
+### 🌍 Learner Engagement & Campaign Analytics Dashboard  
+- **Tech Stack:** PostgreSQL, SQL, Looker Studio, Excel  
+- **Highlights:**  
+  - Integrated **5 relational datasets** into one master table  
+  - Automated reporting — **90% time saved**  
+  - Dashboard delivered insights across **52K learners in 146 countries**
 
-**Impact:**
-- Built **Gradient Boosting model (91% accuracy)**  
-- Identified **top churn drivers** via EDA & correlation  
-- Designed retention strategy for **8,558 learners**
+[📂 View Project Files →](Excelerate%20Internships/Data-Analyst-Associate-Internship/)
 
-📂 [View Project Files →](./Excelerate_Internships/AI-Powered-Data-Insights-Internship/)
+---
+
+### 🏪 Store Sales Analysis & Dashboard  
+- **Tech Stack:** Microsoft Excel  
+- **Highlights:**  
+  - Analyzed **$140K sales** across products and regions  
+  - Built automated KPI dashboard with slicers & visuals  
+  - Identified **top products and profitable regions**
+
+[📂 View Project Files →](Excelerate%20Internships/Mastering-Excel-Techniques-Masterclass/)
 
 ---
 
 ## 🎓 Meta Data Analyst Course Projects
 
-### 1️⃣ BrightThreads Boutique — Data Analytics Case Study  
-**Tech Stack:** Excel, Google Sheets  
-**Focus:** Business case analysis, OSEMN framework, predictive modeling  
+### 🧵 BrightThreads Boutique — Data Analytics Case Study  
+- **Tech Stack:** Excel, Google Sheets  
+- **Highlights:**  
+  - Cleaned and analyzed retail data  
+  - Designed predictive model for **10% sales growth target**  
+  - Applied OSEMN framework for complete analysis lifecycle  
 
-**Impact:**
-- Cleaned, validated, and modeled boutique sales data  
-- Designed **customer segmentation** for a 10% sales growth target  
-
-📄 [BrightThreads_Data_Analytics_Case_Study.pdf](./Meta_Data_Analyst_Course/1_Introduction_to_Data_Analytics/BrightThreads_Data_Analytics_Case_Study.pdf)  
-📄 [BrightThreads_Sales_Growth_Strategy.pdf](./Meta_Data_Analyst_Course/1_Introduction_to_Data_Analytics/BrightThreads_Sales_Growth_Strategy.pdf)  
-📂 [View Project Files →](./Meta_Data_Analyst_Course/1_Introduction_to_Data_Analytics/)
+[📂 View Project Files →](Meta%20Data%20Analyst%20Course/1_Introduction_to_Data_Analytics/)
 
 ---
 
-### 2️⃣ Customer Data Analysis  
-**Tech Stack:** Excel, Google Sheets, SQL  
+### 🛒 Customer Data Analysis  
+- **Tech Stack:** Excel, Google Sheets, SQL  
+- **Highlights:**  
+  - Cleaned e-commerce data and removed duplicates/cancellations  
+  - Correlation and regression for pricing and inventory insights  
 
-**Impact:**
-- Cleaned e-commerce data (removed duplicates, cancellations, refunds)  
-- Performed **correlation & regression analysis** for pricing decisions  
-
-📄 [1_Cleaning_&_Exploring.xlsx](./Meta_Data_Analyst_Course/2_Data_Analysis_with_Spreadsheets_and_SQL/1_Cleaning_&_Exploring.xlsx)  
-📄 [2_Extracting_Data_with_SQL.pdf](./Meta_Data_Analyst_Course/2_Data_Analysis_with_Spreadsheets_and_SQL/2_Extracting_Data_with_SQL.pdf)  
-📂 [View Project Files →](./Meta_Data_Analyst_Course/2_Data_Analysis_with_Spreadsheets_and_SQL/)
+[📂 View Project Files →](Meta%20Data%20Analyst%20Course/2_Data_Analysis_with_Spreadsheets_and_SQL/)
 
 ---
 
-### 3️⃣ Pet Store Transactions Analysis  
-**Tech Stack:** Python, Pandas, Seaborn, Tableau  
+### 🐾 Pet Store Transactions Analysis  
+- **Tech Stack:** Python, Pandas, Seaborn, Tableau  
+- **Highlights:**  
+  - Cleaned **2,903 transactions** and explored sales trends  
+  - Created Tableau dashboard for **inventory optimization**
 
-**Impact:**
-- Cleaned **2,903 transactions**, performed EDA & visualization  
-- Identified **top categories** and optimized inventory strategy  
-
-📄 [Pet_Store_Transactions_Analysis.ipynb](./Meta_Data_Analyst_Course/3_Python_Data_Analytics/Pet_Store_Transactions_Analysis.ipynb)  
-📊 Tableau: [Most Profitable Products Dashboard](https://public.tableau.com/app/profile/sumaya.mateen/viz/MetaAssignment_17618077249700/MostProfitableProductsDashboard2)  
-📂 [View Project Files →](./Meta_Data_Analyst_Course/3_Python_Data_Analytics/)
+[📂 View Project Files →](Meta%20Data%20Analyst%20Course/3_Python_Data_Analytics/)
 
 ---
 
-### 4️⃣ Digital Campaigns Performance Analysis  
-**Tech Stack:** Excel, Tableau  
+### 📢 Digital Campaigns Performance Analysis  
+- **Tech Stack:** Excel, Tableau  
+- **Highlights:**  
+  - Compared **Facebook vs AdWords** ROI performance  
+  - Used **correlation, t-tests, and regression modeling**  
+  - Identified optimal platform for ad budget allocation  
 
-**Impact:**
-- Compared **Facebook vs AdWords** campaign performance  
-- Conducted **correlation, t-test, and regression** for ROI optimization  
-
-📄 [1_Digital_Campaigns_Performance_Metrics.xlsx](./Meta_Data_Analyst_Course/4_Statistics_Foundations/1_Digital_Campaigns_Performance_Metrics.xlsx)  
-📄 [2_Statistics_of_Digital_Campaigns_Performance.pdf](./Meta_Data_Analyst_Course/4_Statistics_Foundations/2_Statistics_of_Digital_Campaigns_Performance.pdf)  
-📊 Tableau: [Campaign Regression Model](https://public.tableau.com/app/profile/sumaya.mateen/viz/Book1_17622622567270/RegressionModelFB)  
-📂 [View Project Files →](./Meta_Data_Analyst_Course/4_Statistics_Foundations/)
+[📂 View Project Files →](Meta%20Data%20Analyst%20Course/4_Statistics_Foundations/)
 
 ---
 
