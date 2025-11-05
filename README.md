@@ -1,13 +1,14 @@
 # Sumaya Mateen — Data Analytics & Visualization Portfolio
 
-![Excelerate](https://img.shields.io/badge/Excelerate-Internship_Program-FF6B35)
-![Meta](https://img.shields.io/badge/Meta-Data_Analyst_Program-FF6B35)
+![Excelerate](https://img.shields.io/badge/Excelerate-Internship_Program-F97316)
+![Meta](https://img.shields.io/badge/Meta-Data_Analyst_Program-1877F2)
 ![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB)
-![SQL](https://img.shields.io/badge/SQL-Data_Exploration-4285F4)
+![SQL](https://img.shields.io/badge/SQL-Data_Exploration-00618A)
 ![Excel](https://img.shields.io/badge/Excel-Business_Intelligence-217346)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-005570)
-![Statistics](https://img.shields.io/badge/Statistics-Modeling-orange)
-![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Classification-4CAF50)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627)
+![Statistics](https://img.shields.io/badge/Statistics-Modeling-9C27B0)
+![Machine_Learning](https://img.shields.io/badge/Machine_Learning-Classification-00BFA5)
+
 
 ---
 
