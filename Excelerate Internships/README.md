@@ -30,7 +30,8 @@ Each project demonstrates a complete data workflow — from data extraction and 
 - Interactive dashboard tracking learner engagement and campaign KPIs  
 - Data-driven recommendations for outreach optimization  
 
-[View Project →](./Data-Analyst-Associate-Internship/README.md)
+[View Project →](./Excelerate%20Internships/Data-Analyst-Associate-Internship/Learner_Engagement_Dashboard.pdf)
+
 
 ---
 
