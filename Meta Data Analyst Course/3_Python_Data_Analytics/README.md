@@ -85,6 +85,12 @@ Using the **OSEMN framework**, it provides **data-driven recommendations** for i
 
 ---
 
+## Files Included
+
+- [Pet_Store_Transactions_Analysis.ipynb](Pet_Store_Transactions_Analysis.ipynb) — Jupyter Notebook with full pet store transaction analysis
+
+---
+
 ## Project Context  
 **Course:** Python Data Analytics  
 **Program:** Meta Data Analyst with GenAI Professional Certificate  
