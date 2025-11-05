@@ -1,138 +1,127 @@
-# Meta Data Analyst Portfolio  
+# Meta Data Analyst Course Portfolio
 
-![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-green)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-Data_Analysis-blue)
-![Python](https://img.shields.io/badge/Python-Data_Analysis-yellow)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-purple)
-![Statistics](https://img.shields.io/badge/Statistics-Analysis-orange)
-![Framework](https://img.shields.io/badge/Framework-OSEMN-ff69b4)
-
----
-
-## Overview  
-
-This portfolio demonstrates a **comprehensive data analytics journey** completed as part of the **Meta Data Analyst with GenAI Professional Certificate**. It includes projects across **Excel, Google Sheets, Python, and Tableau**, covering the **full analytics workflow**:  
-
-**Obtain → Scrub → Explore → Model → iNterpret (OSEMN)**  
-
-The projects focus on solving real-world business problems through **data cleaning, exploration, visualization, predictive modeling, and actionable insights**.
+![Meta](https://img.shields.io/badge/Meta-Data_Analyst_Program-FF6B35)
+![Excel](https://img.shields.io/badge/Excel-Data_Analysis-217346)
+![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB)
+![SQL](https://img.shields.io/badge/SQL-Data_Exploration-4285F4)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-005570)
+![Statistics](https://img.shields.io/badge/Statistics-Modeling-orange)
 
 ---
 
-## Projects Included  
-
-### 1. BrightThreads Boutique — Data Analytics Case Study  
-
-**Tools:** Excel, Google Sheets  
-**Focus:** Business case study using OSEMN framework  
-
-**Highlights:**  
-- Conducted **SMART goal setting** and KPI definition  
-- Performed **data cleaning and validation** on sales data  
-- Explored sales trends using **pivot tables and visualizations**  
-- Built predictive models (linear regression & clustering)  
-- Delivered actionable **sales growth recommendations**  
-
-**Key Deliverables:**  
-- `BrightThreads_Data_Analytics_Case_Study.pdf` — Full analysis  
-- `BrightThreads_Sales_Growth_Strategy.pdf` — Executive summary  
+## Overview
+This repository showcases my **data analytics projects** completed under the **Meta Data Analyst with GenAI Professional Certificate**, focusing on **real-world business problems**, end-to-end **data workflows**, and actionable business insights.  
+Projects cover **Excel, Google Sheets, Python, SQL, Tableau, and statistical analysis**, demonstrating skills from **data cleaning** to **predictive modeling** and **visual storytelling**.
 
 ---
 
-### 2. Customer Data Analysis Project  
+## Project 1: BrightThreads Boutique — Data Analytics Case Study
+**Tech Stack:** Excel, Google Sheets  
+**Focus Areas:** Business case analysis, sales growth strategy, OSEMN framework  
 
-**Tools:** Excel, Google Sheets  
-**Focus:** E-commerce transactional data analysis  
+### Business Impact
+- Defined SMART goals and KPIs for sales growth  
+- Performed full **data cleaning and validation** on boutique sales  
+- Built predictive models and customer segmentation analysis  
+- Delivered actionable recommendations for **10% sales growth target**  
 
-**Highlights:**  
-- Cleaned raw sales data: removed duplicates, refunds, cancelled orders  
-- Explored data numerically and visually (price, revenue, peak-hour trends)  
-- Conducted correlation analysis and **linear regression** for demand patterns  
-- SQL-like queries in Google Sheets for sales aggregation and KPI calculations  
+### Key Deliverables
+- Comprehensive case study report (`BrightThreads_Data_Analytics_Case_Study.pdf`)  
+- Executive summary & strategy document (`BrightThreads_Sales_Growth_Strategy.pdf`)  
 
-**Key Insights:**  
-- Peak sales between 11 AM – 12 PM  
-- UK market dominates revenue (~95%)  
-- Product-level analysis for expansion opportunities  
-- Recommendations for international growth and targeted marketing  
-
-**Files Included:**  
-- `1_Cleaning_&_Exploring.xlsx` — Full Excel workflow  
-- `2_Extracting_Data_with_SQL` — Google Sheets queries  
+[View Project →](./1_Introduction_to_Data_Analytics/README.md)
 
 ---
 
-### 3. Pet Store Transactions Analysis  
+## Project 2: Customer Data Analysis
+**Tech Stack:** Excel, Google Sheets, SQL  
+**Focus Areas:** E-commerce transactions, data cleaning, visualization, linear regression  
 
-**Tools:** Python (Pandas, Seaborn), Tableau  
-**Focus:** Retail sales and inventory optimization  
+### Business Impact
+- Cleaned and transformed raw e-commerce data (duplicates, cancellations, refunds removed)  
+- Explored **sales patterns, peak hours, and top-performing products**  
+- Performed correlation and regression analysis to inform pricing and inventory decisions  
+- SQL-like queries for aggregated sales insights  
 
-**Highlights:**  
-- Cleaned and validated **2,903 transaction records**  
-- Created calculated fields (e.g., `Subtotal = Price × Quantity`)  
-- Conducted EDA to identify **top-performing product categories**  
-- Visualized sales trends by category and customer segment  
-- Provided actionable **inventory and product recommendations**  
+### Key Deliverables
+- Cleaned Excel workbook (`1_Cleaning_&_Exploring.xlsx`)  
+- SQL query workbook (`2_Extracting_Data_with_SQL`)  
 
-**Key Insights:**  
-- Cat products dominate overall sales volume  
-- Top-selling categories: Treats and Bedding  
-- Premium segment (high-margin items) identified for strategic focus  
-
-**Tableau Dashboard:** [Most Profitable Products](https://public.tableau.com/app/profile/sumaya.mateen/viz/MetaAssignment_17618077249700/MostProfitableProductsDashboard2)  
+[View Project →](./2_Data_Analysis_with_Spreadsheets_and_SQL/README.md)
 
 ---
 
-### 4. Digital Campaigns Performance Analysis  
+## Project 3: Pet Store Transactions Analysis
+**Tech Stack:** Python (Pandas, Seaborn, Matplotlib), Tableau  
+**Focus Areas:** Retail sales analysis, inventory optimization, feature engineering  
 
-**Tools:** Excel, Tableau  
-**Focus:** Marketing campaign performance evaluation  
+### Business Impact
+- Cleaned and validated 2,903 transaction records  
+- Conducted EDA to identify **top-selling product categories and customer patterns**  
+- Visualized sales trends in Tableau for **inventory and product strategy optimization**  
+- Delivered actionable recommendations for high-margin products  
 
-**Highlights:**  
-- Compared **Facebook vs AdWords** campaigns using statistical analysis  
-- Descriptive statistics, correlation, two-sample t-test  
-- Regression modeling in Tableau for predictive insights  
-- Evaluated conversions, ROI, and performance significance  
+### Key Deliverables
+- Python notebook (`Pet_Store_Transactions_Analysis.ipynb`)  
+- Tableau dashboard: [Most Profitable Products](https://public.tableau.com/app/profile/sumaya.mateen/viz/MetaAssignment_17618077249700/MostProfitableProductsDashboard2)  
 
-**Key Findings:**  
-- Facebook delivers higher conversions per click  
-- AdWords generates traffic but lower conversion efficiency  
-- Regression supports budget reallocation toward high-performing campaigns  
-
-**Tableau Dashboard:** [Campaign Regression Model](https://public.tableau.com/app/profile/sumaya.mateen/viz/Book1_17622622567270/RegressionModelFB)  
+[View Project →](./3_Python_Data_Analytics/README.md)
 
 ---
 
-## Skills Demonstrated  
+## Project 4: Digital Campaigns Performance Analysis
+**Tech Stack:** Excel, Tableau  
+**Focus Areas:** Marketing campaign evaluation, hypothesis testing, regression  
 
-- Data Cleaning & Validation (Excel, Python)  
-- Exploratory Data Analysis & Visualization (Excel, Tableau, Seaborn)  
-- Statistical Analysis & Hypothesis Testing (Excel, Python)  
-- Predictive Modeling & Regression Analysis  
-- SQL-based Data Exploration (Google Sheets QUERY function)  
-- Business Insights & Strategic Recommendations  
-- Storytelling & Presentation for Stakeholders  
+### Business Impact
+- Compared Facebook vs AdWords campaigns for conversion efficiency  
+- Conducted **descriptive statistics, correlation analysis, t-tests, and regression modeling**  
+- Identified **platform with higher ROI** and provided budget allocation recommendations  
+
+### Key Deliverables
+- Excel workbook (`1_Digital_Campaigns_Performance_Metrics.xlsx`)  
+- Statistical analysis workbook (`2_Statistics_of_Digital_Campaigns_Performance.xlsx`)  
+- Tableau regression dashboard: [Campaign Regression Model](https://public.tableau.com/app/profile/sumaya.mateen/viz/Book1_17622622567270/RegressionModelFB)  
+
+[View Project →](./4_Statistics_Foundations/README.md)
+
+---
+
+## Skills & Tools Developed
+### Technical
+- **Programming & SQL:** Python, Pandas, Google Sheets QUERY, SQL  
+- **Data Cleaning & Transformation:** Excel, Python  
+- **Data Analysis & Visualization:** Tableau, Seaborn, Matplotlib, Pivot Tables  
+- **Statistics & Modeling:** Correlation, Regression, Hypothesis Testing  
+- **Business Intelligence:** KPI tracking, dashboards, feature engineering  
+
+### Business
+- Problem definition & goal setting  
+- Strategic recommendation development  
+- Stakeholder communication & storytelling  
+- Data-driven decision making  
 
 ---
 
-## Tools & Technologies  
+## Project Highlights
 
-- **Excel:** Pivot Tables, Charts, Data Cleaning, Descriptive Stats  
-- **Google Sheets:** SQL-like Queries, KPI Calculations  
-- **Python:** Pandas, NumPy, Seaborn, Matplotlib  
-- **Tableau:** Dashboards, Regression, Visualization  
-- **Statistical Methods:** Correlation, Hypothesis Testing, Regression  
-- **Framework:** OSEMN (Obtain, Scrub, Explore, Model, iNterpret)  
+| Project | Scale | Key Achievement | Business Impact |
+|---------|-------|----------------|----------------|
+| BrightThreads Case Study | Boutique sales data | Predictive models & segmentation | 10% sales growth target |
+| Customer Data Analysis | 45 clean transactions | Linear regression & SQL queries | Peak-hour & product insights |
+| Pet Store Analysis | 2,903 transactions | Tableau dashboard | Optimized inventory & category strategy |
+| Digital Campaign Analysis | 2 ad platforms | Statistical & regression analysis | ROI optimization & budget allocation |
 
 ---
+
+## Portfolio Summary
+These projects collectively demonstrate my ability to:  
+- Build **end-to-end data workflows** from raw data to insights  
+- Apply **statistical analysis and predictive modeling**  
+- Visualize and communicate data insights effectively for business decision-making  
 
 ## Course Context  
 
 **Program:** Meta Data Analyst with GenAI Professional Certificate  
 **Objective:** Apply end-to-end analytics skills to **real-world business problems**  
 **Outcome:** Portfolio-ready projects demonstrating **data-driven decision-making capabilities**  
-
----
-
-## Folder Structure  
-
