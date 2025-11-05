@@ -11,7 +11,7 @@
 
 ---
 
-## Professional Summary
+## About Me
 
 Data Analyst specializing in **Data Visualization, Business Intelligence, and Predictive Analytics**, with hands-on experience across **Excelerate Internship Programs** and **Meta Data Analyst Professional Certificate**.  
 I transform raw data into actionable insights, reporting dashboards, and data-driven strategies that drive business value.  
@@ -137,7 +137,6 @@ Showcases **end-to-end data workflows** from virtual internships and certified p
 
 ---
 
-## Connect With Me
 
 ## Connect With Me
 
