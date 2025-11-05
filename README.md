@@ -16,7 +16,8 @@
 Data Analyst specializing in **Data Visualization, Business Intelligence, and Predictive Analytics**, with hands-on experience across **Excelerate Internship Programs** and **Meta Data Analyst Professional Certificate**.  
 I transform raw data into actionable insights, reporting dashboards, and data-driven strategies that drive business value.  
 
-**Open to:** Data Analyst, Business Intelligence Analyst, Data Visualization Specialist  
+Open to: Data Analyst, Business Intelligence Analyst, Data Visualization Specialist  
+
 ---
 
 ## Portfolio Overview
