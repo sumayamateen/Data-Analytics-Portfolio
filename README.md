@@ -25,7 +25,6 @@ The portfolio spans:
 
 ## Excelerate Internship Projects
 
-### Internship 1: Data Analyst Associate
 **Project:** Learner Engagement & Campaign Analytics Dashboard  
 **Tech Stack:** PostgreSQL, SQL, Looker Studio, Excel  
 
@@ -39,7 +38,6 @@ The portfolio spans:
 
 ---
 
-### Internship 2: Mastering Excel Techniques
 **Project:** Store Sales Analysis & Dashboard  
 **Tech Stack:** Microsoft Excel  
 
@@ -52,7 +50,6 @@ The portfolio spans:
 
 ---
 
-### Internship 3: AI-Powered Data Analyst
 **Project:** Student Churn Analysis & Prediction  
 **Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn  
 
