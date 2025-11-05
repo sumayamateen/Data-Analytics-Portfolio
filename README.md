@@ -73,7 +73,7 @@ The portfolio spans:
 - Customer segmentation & sales growth prediction (10% target)  
 - Deliverables:  
  ### BrightThreads Case Study
-- [`BrightThreads_Data_Analytics_Case_Study.pdf`](./1_Introduction_to_Data_Analytics/BrightThreads_Data_Analytics_Case_Study.pdf)
+- [`BrightThreads_Data_Analytics_Case_Study.pdf`](BrightThreads_Data_Analytics_Case_Study.pdf)
 - [`BrightThreads_Sales_Growth_Strategy.pdf`](./1_Introduction_to_Data_Analytics/BrightThreads_Sales_Growth_Strategy.pdf)
 
 
