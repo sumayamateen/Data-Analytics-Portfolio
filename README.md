@@ -15,82 +15,82 @@
 
 ## About Me
 
-Data Analyst specializing in **Data Visualization, Business Intelligence, and Predictive Analytics**, with hands-on experience across **Excelerate Internship Programs**, **Meta Data Analyst Professional Certificate**, and **AnalytixCamp SQL Analytics**.  
+Data Analyst specializing in *Data Visualization, Business Intelligence, and Predictive Analytics, with hands-on experience across **Excelerate Internship Programs, **Meta Data Analyst Professional Certificate, and **AnalytixCamp SQL Analytics*.  
 I transform raw data into actionable insights, reporting dashboards, and data-driven strategies that drive business value.
 
-**Open to:** Data Analyst, Business Intelligence Analyst, Data Visualization Specialist, SQL Analyst
+*Open to:* Data Analyst, Business Intelligence Analyst, Data Visualization Specialist, SQL Analyst
 
 ---
 
 ## Portfolio Overview
 
-Showcases **end-to-end data workflows** from virtual internships and certified projects: data cleaning, transformation, analysis, visualization, predictive modeling, and business insight delivery.
+Showcases *end-to-end data workflows* from virtual internships and certified projects: data cleaning, transformation, analysis, visualization, predictive modeling, and business insight delivery.
 
-**Key Skills & Tools:**
-- **Programming & Databases:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL (PostgreSQL, CTEs, Window Functions, Complex Joins), ETL, relational databases  
-- **Analytics & Visualization:** Advanced Excel, Power BI, Google Sheets, Pivot Tables, Tableau, Looker Studio, interactive dashboards  
-- **Statistics & Modeling:** Hypothesis testing, correlation, regression, A/B testing, Gradient Boosting, feature engineering  
-- **Business Intelligence:** KPI development, stakeholder communication, retail analytics, data-driven decision making  
+*Key Skills & Tools:*
+- *Programming & Databases:* Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL (PostgreSQL, CTEs, Window Functions, Complex Joins), ETL, relational databases  
+- *Analytics & Visualization:* Advanced Excel, Power BI, Google Sheets, Pivot Tables, Tableau, Looker Studio, interactive dashboards  
+- *Statistics & Modeling:* Hypothesis testing, correlation, regression, A/B testing, Gradient Boosting, feature engineering  
+- *Business Intelligence:* KPI development, stakeholder communication, retail analytics, data-driven decision making  
 
 ---
 
 ## Excelerate Internship Projects
 
 ### Student Churn Analysis & Prediction
-**Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn  
+*Tech Stack:* Python, Pandas, Scikit-Learn, Matplotlib, Seaborn  
 
-**Highlights:**
-- Gradient Boosting model with **91% accuracy**  
+*Highlights:*
+- Gradient Boosting model with *91% accuracy*  
 - Key churn drivers identified via EDA & correlation analysis  
-- Insights delivered to **8,558 learners**, reducing churn by 31.8%  
+- Insights delivered to *8,558 learners*, reducing churn by 31.8%  
 
 [View Project Files →](Excelerate%20Internships/AI-Powered-Data-Insights-Internship/)
 
-
+---
 
 ### Learner Engagement & Campaign Analytics Dashboard
-**Tech Stack:** PostgreSQL, SQL, Looker Studio, Excel  
+*Tech Stack:* PostgreSQL, SQL, Looker Studio, Excel  
 
-**Highlights:**
-- Unified **5 relational datasets** into master table using ETL  
+*Highlights:*
+- Unified *5 relational datasets* into master table using ETL  
 - Automated reporting pipeline, reducing manual analysis by 90%  
-- Dashboard served **52K+ learners in 146 countries**  
+- Dashboard served *52K+ learners in 146 countries*  
 - Enabled real-time tracking of learner progress and campaign performance  
 
 [View Project Files →](Excelerate%20Internships/Data-Analyst-Associate-Internship/)
 
-
+---
 
 ### Store Sales Analysis & Dashboard
-**Tech Stack:** Microsoft Excel, Pivot Tables, Advanced Formulas  
+*Tech Stack:* Microsoft Excel, Pivot Tables, Advanced Formulas  
 
-**Highlights:**
-- Analyzed **$140K+ sales** across multiple products and regions  
+*Highlights:*
+- Analyzed *$140K+ sales* across multiple products and regions  
 - Interactive Excel dashboard with automated KPIs  
 - Identified top-performing products and regions  
 
 [View Project Files →](Excelerate%20Internships/Mastering-Excel-Techniques-Masterclass/)
 
-
+---
 
 ## Meta Data Analyst Course Projects
 
 ### BrightThreads Boutique — Data Analytics Case Study
-**Tech Stack:** Excel, Google Sheets  
+*Tech Stack:* Excel, Google Sheets  
 
-**Highlights:**
+*Highlights:*
 - Complete data cleaning and validation  
 - Applied OSEMN framework and predictive modeling  
-- Achieved **10% sales growth target**  
+- Achieved *10% sales growth target*  
 
 [View Project Files →](Meta%20Data%20Analyst%20Course/1_Introduction_to_Data_Analytics/)
 
 ---
 
 ### Customer Data Analysis
-**Tech Stack:** Excel, Google Sheets, SQL  
+*Tech Stack:* Excel, Google Sheets, SQL  
 
-**Highlights:**
+*Highlights:*
 - Cleaned e-commerce data and removed duplicates/cancellations  
 - Correlation & regression analysis for pricing and inventory  
 - SQL queries for efficient data exploration  
@@ -100,10 +100,10 @@ Showcases **end-to-end data workflows** from virtual internships and certified p
 ---
 
 ### Pet Store Transactions Analysis
-**Tech Stack:** Python, Pandas, Seaborn, Tableau  
+*Tech Stack:* Python, Pandas, Seaborn, Tableau  
 
-**Highlights:**
-- Cleaned and analyzed **2,903 transactions**  
+*Highlights:*
+- Cleaned and analyzed *2,903 transactions*  
 - Tableau dashboard for inventory optimization  
 - Identified top-selling categories and most profitable products  
 
@@ -112,9 +112,9 @@ Showcases **end-to-end data workflows** from virtual internships and certified p
 ---
 
 ### Digital Campaigns Performance Analysis
-**Tech Stack:** Excel, Tableau, Statistical Testing  
+*Tech Stack:* Excel, Tableau, Statistical Testing  
 
-**Highlights:**
+*Highlights:*
 - Compared Facebook vs. AdWords ROI  
 - Applied correlation, t-tests, and regression modeling  
 - Provided recommendations for optimal ad budget allocation  
@@ -126,14 +126,14 @@ Showcases **end-to-end data workflows** from virtual internships and certified p
 ## AnalytixCamp SQL Course Projects
 
 ### 365 Super Mart - Promotion Sales Analysis
-**Tech Stack:** SQL, Power BI, Excel, Business Analytics  
+*Tech Stack:* SQL, Power BI, Excel, Business Analytics  
 
-**Highlights:**
-- Analyzed **50 stores across multiple cities** to measure promotional effectiveness  
-- Identified **top-performing promotion types generating +122.6M incremental revenue**  
-- Discovered **BOGOF drives highest unit sales with +157K incremental units**  
-- Provided **data-driven recommendations** for promotional strategy optimization  
-- Applied **advanced SQL techniques:** CTEs, window functions, complex aggregations  
+*Highlights:*
+- Analyzed *50 stores across multiple cities* to measure promotional effectiveness  
+- Identified *top-performing promotion types generating +122.6M incremental revenue*  
+- Discovered *BOGOF drives highest unit sales with +157K incremental units*  
+- Provided *data-driven recommendations* for promotional strategy optimization  
+- Applied *advanced SQL techniques:* CTEs, window functions, complex aggregations  
 
 [View Project Files →](AnalytixCamp%20SQL%20Course/)
 
@@ -161,4 +161,4 @@ Showcases **end-to-end data workflows** from virtual internships and certified p
 - SQL for Data Analytics - AnalytixCamp 
 ---
 
-> **"Transforming raw data into strategic advantage through analytical excellence and compelling visualizations"**
+> *"Transforming raw data into strategic advantage through analytical excellence and compelling visualizations"*
