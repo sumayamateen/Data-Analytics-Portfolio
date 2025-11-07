@@ -154,11 +154,26 @@ Showcases *end-to-end data workflows* from virtual internships and certified pro
 
 ---
 
-## Certifications & Education
+## Certificates
 
 - Meta Data Analyst with GenAI Professional Certificate - Meta  
 - Excelerate Data Analytics Virtual Internship Program - Excelerate  
-- SQL for Data Analytics - AnalytixCamp 
+- SQL for Data Analytics - AnalytixCamp
+
+## Certifications
+
+### Excelerate
+- [**AI-Powered Data Insights Internship**](Certificates/Excelerate/AI-Powered-Data-Insights-Internship.pdf)
+- [**Data Analyst Associate Internship**](Certificates/Excelerate/Data-Analyst-Associate-Internship.pdf)
+- [**Mastering Excel Techniques Masterclass**](Certificates/Excelerate/Mastering-Excel-Techniques-Masterclass.pdf)
+
+### Meta
+- [**Meta Data Analyst with GenAI Professional Certificate**](Certificates/Meta/Meta-Data-Analyst-with-GenAI.pdf)
+
+### AnalytixCamp
+- [**SQL for Data Analytics**](Certificates/AnalytixCamp/SQL-FOR-DATA-ANALYTICS.pdf)
+
+i want to make them clickable and swrite in GitHub Flavored Markdown (GFM).
 ---
 
 > *"Transforming raw data into strategic advantage through analytical excellence and compelling visualizations"*
