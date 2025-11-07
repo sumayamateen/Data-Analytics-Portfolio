@@ -46,7 +46,7 @@ Showcases **end-to-end data workflows** from virtual internships and certified p
 
 [View Project Files →](Excelerate%20Internships/AI-Powered-Data-Insights-Internship/)
 
----
+
 
 ### Learner Engagement & Campaign Analytics Dashboard
 **Tech Stack:** PostgreSQL, SQL, Looker Studio, Excel  
@@ -59,7 +59,7 @@ Showcases **end-to-end data workflows** from virtual internships and certified p
 
 [View Project Files →](Excelerate%20Internships/Data-Analyst-Associate-Internship/)
 
----
+
 
 ### Store Sales Analysis & Dashboard
 **Tech Stack:** Microsoft Excel, Pivot Tables, Advanced Formulas  
@@ -71,7 +71,7 @@ Showcases **end-to-end data workflows** from virtual internships and certified p
 
 [View Project Files →](Excelerate%20Internships/Mastering-Excel-Techniques-Masterclass/)
 
----
+
 
 ## Meta Data Analyst Course Projects
 
