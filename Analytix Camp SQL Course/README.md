@@ -70,7 +70,6 @@ The project demonstrates **end-to-end SQL querying**, **business intelligence an
 | Total Incremental Revenue | **207M** |
 | Total Incremental Sold Units | **226K** |
 | Average IR per Store | **4.14M** |
-| Promotion Lift Percentage | **108.3%** |
 | Total Stores Analyzed | **50** |
 
 ---
