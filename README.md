@@ -14,10 +14,11 @@
 ---
 
 ## About Me
-I am a **Data Analyst specializing in Data Visualization, Business Intelligence, and Predictive Analytics**, with hands-on experience across Excelerate Internship Programs, Meta Data Analyst Professional Certificate, and AnalytixCamp SQL Analytics.  
-I transform raw data into actionable insights, reporting dashboards, and data-driven strategies that drive measurable business value.
+I am a **Data Analyst specializing in Data Visualization, Business Intelligence (BI), and Predictive Analytics**. I am focused on the full analytical lifecycle—from transforming raw data into reliable insights, to building clear reporting dashboards that drive measurable business value.
 
-**Open to roles:** Data Analyst, Business Intelligence Analyst, Data Visualization Specialist, SQL Analyst
+My hands-on experience comes from rigorous programs, including the Meta Data Analyst Professional Certificate, AnalytixCamp SQL Analytics, and the Excelerate Internship Program.
+
+**Open to roles:** Data Analyst, Business Intelligence Analyst, Data Visualization Specialist, and SQL Analyst.
 
 ---
 
@@ -177,6 +178,13 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 ### AnalytixCamp
 - [SQL for Data Analytics](Certificates/AnalytixCamp/SQL-FOR-DATA-ANALYTICS.pdf)  
 
+## Certificates
+
+[**View All Certificates →**](./Certificates/)
+
+- [Meta Data Analyst with GenAI Certificate](./Certificates/Meta-Data-Analyst-with-GenAI.pdf)
+- [Excelerate Data Analytics Virtual Internship Program](./Certificates/Excelerate-Data-Analyst-Associate-Internship.pdf)  
+- [SQL for Data Analytics](./Certificates/AnalytixCamp-SQL-FOR-DATA-ANALYTICS.pdf)
 ---
 
 ## Contact
