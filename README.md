@@ -167,19 +167,6 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 ## Certificates
 
-### Excelerate
-- [AI-Powered Data Insights Internship](Certificates/Excelerate/AI-Powered-Data-Insights-Internship.pdf)  
-- [Data Analyst Associate Internship](Certificates/Excelerate/Data-Analyst-Associate-Internship.pdf)  
-- [Mastering Excel Techniques Masterclass](Certificates/Excelerate/Mastering-Excel-Techniques-Masterclass.pdf)  
-
-### Meta
-- [Meta Data Analyst with GenAI Professional Certificate](Certificates/Meta/Meta-Data-Analyst-with-GenAI.pdf)  
-
-### AnalytixCamp
-- [SQL for Data Analytics](Certificates/AnalytixCamp/SQL-FOR-DATA-ANALYTICS.pdf)  
-
-## Certificates
-
 [**View All Certificates →**](./Certificates/)
 
 - [Meta Data Analyst with GenAI Certificate](./Certificates/Meta-Data-Analyst-with-GenAI.pdf)
@@ -190,9 +177,7 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 ## Contact
 - **Email:** your.email@domain.com  
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
-
-Open to Data Analyst, Business Intelligence, and SQL Analyst roles  
+- **Portfolio:** [yourportfolio.com](https://yourportfolio.com) 
 
 ---
 
@@ -202,7 +187,7 @@ Data-Analytics-Portfolio/
 ├── AnalytixCamp SQL Course/
 ├── Excelerate Internships/
 ├── Certificates/
-└── README.md
+└── 📄 README.md
 
 ---
 
