@@ -67,7 +67,7 @@ It demonstrates <strong>end-to-end SQL querying</strong>, <strong>business intel
   <li><strong>Key Finding:</strong> Geographic disparities reveal significant optimization opportunities</li>
 </ul>
 
-<h3>🎯 Promotion Effectiveness</h3>
+<h3> Promotion Effectiveness</h3>
 <ul>
   <li><strong>Highest Revenue Generator:</strong> 500 Cashback (+122.6M incremental revenue)</li>
   <li><strong>Highest Units Driver:</strong> BOGOF (+157K incremental sold units)</li>
@@ -75,7 +75,7 @@ It demonstrates <strong>end-to-end SQL querying</strong>, <strong>business intel
   <li><strong>Key Finding:</strong> Value-based promotions outperform discount-based campaigns</li>
 </ul>
 
-<h3>🛍️ Product Category Analysis</h3>
+<h3></h3> Product Category Analysis</h3>
 <ul>
   <li><strong>Most Responsive:</strong> Grocery & Staples (+14.9M revenue, +23.8K units)</li>
   <li><strong>Moderate Response:</strong> Personal Care (+654K revenue, +6.2K units)</li>
@@ -85,7 +85,7 @@ It demonstrates <strong>end-to-end SQL querying</strong>, <strong>business intel
 
 <hr>
 
-<h2>📊 Key Performance Indicators (KPIs)</h2>
+<h2> Key Performance Indicators (KPIs)</h2>
 <table>
   <tr>
     <th>KPI</th>
@@ -111,7 +111,7 @@ It demonstrates <strong>end-to-end SQL querying</strong>, <strong>business intel
 
 <hr>
 
-<h2>🧠 Skills & Tools Developed</h2>
+<h2> Skills & Tools Developed</h2>
 
 <h3>Technical Skills</h3>
 <ul>
@@ -131,22 +131,21 @@ It demonstrates <strong>end-to-end SQL querying</strong>, <strong>business intel
 
 <hr>
 
-<h2>💡 Business Recommendations</h2>
+<h2> Business Recommendations</h2>
 <ul>
-  <li>✅ Prioritize Cashback and BOGOF promotions over flat percentage discounts</li>
-  <li>✅ Focus on Grocery & Staples and Personal Care categories</li>
-  <li>✅ Replicate successful strategies from top-performing cities in underperforming regions</li>
-  <li>✅ Phase out or redesign 25% OFF and 50% OFF campaigns</li>
-  <li>✅ Implement city-specific promotional strategies based on regional responsiveness</li>
+  <li> Prioritize Cashback and BOGOF promotions over flat percentage discounts</li>
+  <li> Focus on Grocery & Staples and Personal Care categories</li>
+  <li> Replicate successful strategies from top-performing cities in underperforming regions</li>
+  <li> Phase out or redesign 25% OFF and 50% OFF campaigns</li>
+  <li> Implement city-specific promotional strategies based on regional responsiveness</li>
 </ul>
 
 <hr>
 
-<h2>🎓 Course Context</h2>
+<h2> Course Context</h2>
 <ul>
   <li><strong>Program:</strong> AnalytixCamp — SQL for Data Analytics Course</li>
   <li><strong>Objective:</strong> Apply SQL skills to solve real-world business problems in retail analytics</li>
   <li><strong>Outcome:</strong> Portfolio-ready project demonstrating end-to-end data analysis capabilities</li>
 </ul>
 
-<p><em>"Transforming retail data into actionable insights for smarter promotional strategy and performance growth."</em></p>
