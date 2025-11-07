@@ -1,89 +1,116 @@
 # 365 Super Mart - Promotion Sales Analysis
 
-## Project Overview
-A comprehensive analysis of promotional campaign effectiveness for **365 Super Mart**, a leading FMCG retailer. This project evaluates the impact of various promotion types on sales performance, store performance, and product category responsiveness using SQL for data analysis and Power BI for visualization.
+![SQL](https://img.shields.io/badge/SQL-Data_Analytics-4285F4)
+![Power_BI](https://img.shields.io/badge/Power_BI-Dashboard_Visualization-F2C811)
+![Excel](https://img.shields.io/badge/Excel-Data_Analysis-217346)
+![Business_Analytics](https://img.shields.io/badge/Business_Analytics-Retail_Insights-FF6B35)
+![FMCG](https://img.shields.io/badge/FMCG-Retail_Analytics-00A859)
 
-**Course:** AnalytixCamp - SQL for Data Analytics  
-**Tools:** SQL, Power BI, Excel, PowerPoint  
-**Domain:** Retail Analytics, FMCG, Business Intelligence
+---
 
-## Business Objectives
-- Measure the impact of discount campaigns on incremental revenue and units sold
-- Identify top-performing stores and underperforming locations requiring intervention
-- Compare effectiveness of different promotion types (BOGOF, Cashback, Percentage Discounts)
-- Analyze product category response to promotional campaigns
-- Provide data-driven recommendations for optimizing promotional strategies
+## Overview  
+This repository showcases my **SQL data analytics project** completed under the **AnalytixCamp SQL for Data Analytics Course**, focusing on **real-world retail business problems**, **promotional campaign analysis**, and **data-driven decision making**.  
 
-## Project Structure
-AnalytixCamp-SQL-Course/
-└── 365_Super_Mart_Promotion_Analysis/
-├── 1_Business_Questions.md # Business questions & analytical requirements
-├── 2_Sql_Queries_Solutions.sql # Complete SQL solutions for all analyses
-├── 3_365_Super_Mart_Promotion_Analysis_Presentation.pdf # Business presentation
+The project demonstrates **end-to-end SQL querying**, **business intelligence analysis**, and **strategic recommendations** for a leading **FMCG enterprise**.
 
+---
 
-## Key Performance Indicators (KPIs)
-- **Total Incremental Revenue:** 207M
-- **Total Incremental Sold Units:** 226K
-- **Average IR per Store:** 4.14M
-- **Promotion Lift Percentage:** 108.3%
-- **Total Stores Analyzed:** 50
+## Project: 365 Super Mart — Promotion Sales Analysis  
+**Tech Stack:** SQL, Power BI, Excel, PowerPoint  
+**Focus Areas:** Retail analytics, promotional effectiveness, store performance, business intelligence  
 
-##  Analytical Insights
+---
 
-### 🏪 Store Performance
-- **Top Performing Cities:** Peshawar, Sialkot, Islamabad, Rawalpindi
-- **Bottom Performing Cities:** Karachi, Faisalabad, Quetta
-- **Revenue Range:** Top stores generated 5.2M - 6.4M incremental revenue
+## Business Impact  
+- Analyzed **50 stores** across multiple cities to measure promotional campaign effectiveness  
+- Identified **top-performing promotion types** generating **122.6M incremental revenue**  
+- Discovered **geographic performance disparities** with actionable optimization opportunities  
+- Delivered **data-driven recommendations** for promotional strategy optimization  
 
-###  Promotion Effectiveness
-- **Highest Revenue Generator:** 500 Cashback (122.6M IR)
-- **Highest Units Driver:** BOGOF (157K ISU)
-- **Lowest Performers:** 25% OFF (-5.7K units), 50% OFF (6.9K units)
+---
 
-### Product Category Analysis
-- **Most Responsive:** Grocery & Staples (+14.9M revenue, +23.8K units)
-- **Moderate Response:** Personal Care (+654K revenue, +6.2K units)
-- **Negative Impact:** Home Care (-348K revenue, -1.5K units)
+## Key Deliverables  
+- `1_Business_Questions.md` — Business requirements documentation  
+- `2_Sql_Queries_Solutions.sql` — Comprehensive SQL analysis addressing 10 business questions  
+- `3_365_Super_Mart_Promotion_Analysis_Presentation.pdf` — Executive presentation with insights & recommendations  
 
-##  Business Recommendations
-1. **Prioritize Cashback and BOGOF** promotions over flat percentage discounts
-2. **Focus promotional efforts** on Grocery & Staples and Personal Care categories
-3. **Replicate successful strategies** from top-performing cities (Peshawar, Sialkot) in underperforming regions
-4. **Phase out or redesign** 25% OFF and 50% OFF discount campaigns
-5. **Implement city-specific** promotional strategies based on regional responsiveness
+[**View Project Files →**](./365_Super_Mart_Promotion_Analysis/)
 
-## Technical Skills Demonstrated
-- **Advanced SQL Querying:** Complex aggregations, CTEs, window functions, joins
-- **Business Intelligence:** KPI development, performance metrics, trend analysis
-- **Data Visualization:** Power BI dashboards, executive presentations
-- **Retail Analytics:** Promotion effectiveness, sales lift analysis, geographic performance
-- **Stakeholder Communication:** Business-focused insights and actionable recommendations
+---
 
-## Files Description
+## Analytical Insights  
 
-### `1_Business_Questions.md`
-Contains all 10 business questions covering:
-- Store performance analysis
-- Promotion type effectiveness
-- Product and category performance
+### Store Performance Analysis  
+- **Top Performing Cities:** Peshawar, Sialkot, Islamabad, Rawalpindi  
+- **Bottom Performing Cities:** Karachi, Faisalabad, Quetta  
+- **Revenue Range:** Top stores generated **5.2M – 6.4M** incremental revenue  
+- **Key Finding:** Geographic disparities reveal significant optimization opportunities  
 
-### `2_Sql_Queries_Solutions.sql`
-Complete SQL solutions addressing all analytical questions including:
-- Incremental Revenue (IR) calculations
-- Incremental Sold Units (ISU) analysis
-- Store and city performance rankings
-- Promotion type comparisons
-- Product category correlations
+---
 
-### `3_365_Super_Mart_Promotion_Analysis_Presentation.pdf`
-Executive presentation with:
-- Key findings and insights
-- Data visualizations and charts
-- Strategic recommendations
-- Implementation roadmap
+### Promotion Effectiveness  
+- **Highest Revenue Generator:** 500 Cashback (**+122.6M** incremental revenue)  
+- **Highest Units Driver:** BOGOF (**+157K** incremental sold units)  
+- **Lowest Performers:** 25% OFF (-5.7K units), 50% OFF (6.9K units)  
+- **Key Finding:** Value-based promotions outperform discount-based campaigns  
 
+---
 
+### Product Category Analysis  
+- **Most Responsive:** Grocery & Staples (**+14.9M revenue**, **+23.8K units**)  
+- **Moderate Response:** Personal Care (**+654K revenue**, **+6.2K units**)  
+- **Negative Impact:** Home Care (**-348K revenue**, **-1.5K units**)  
+- **Key Finding:** Category-specific promotional strategies required  
 
+---
 
-*This project was completed as part of the SQL for Data Analytics course by AnalytixCamp, demonstrating practical application of SQL skills in real-world business scenarios.*
+## Key Performance Indicators (KPIs)  
+| KPI | Value |
+|------|-------|
+| Total Incremental Revenue | **207M** |
+| Total Incremental Sold Units | **226K** |
+| Average IR per Store | **4.14M** |
+| Promotion Lift Percentage | **108.3%** |
+| Total Stores Analyzed | **50** |
+
+---
+
+## Skills & Tools Developed  
+
+### Technical Skills  
+- **Advanced SQL Querying:** Complex aggregations, CTEs, window functions, multiple joins  
+- **Data Analysis:** Incremental revenue calculations, performance metrics, trend analysis  
+- **Business Intelligence:** KPI development, dashboard creation, executive reporting  
+- **Data Visualization:** Power BI dashboards, presentation design  
+
+### Business Skills  
+- **Retail Analytics:** Promotion effectiveness, sales lift analysis, geographic performance  
+- **Strategic Planning:** Resource allocation, campaign optimization, performance benchmarking  
+- **Stakeholder Communication:** Business-focused insights, actionable recommendations  
+- **FMCG Domain Knowledge:** Product category management, promotional strategy  
+
+---
+
+## Business Recommendations  
+- Prioritize **Cashback** and **BOGOF** promotions over flat percentage discounts  
+- Focus on **Grocery & Staples** and **Personal Care** categories  
+- Replicate successful strategies from top-performing cities in underperforming regions  
+- Phase out or redesign **25% OFF** and **50% OFF** campaigns  
+- Implement **city-specific** promotional strategies based on regional responsiveness  
+
+---
+
+## Portfolio Summary  
+This project demonstrates my ability to:  
+- Translate **business questions** into **SQL analytical solutions**  
+- Perform **comprehensive retail analytics** with actionable insights  
+- Communicate **data-driven recommendations** to business stakeholders  
+- Apply **advanced SQL techniques** to solve real-world business problems  
+
+---
+
+## Course Context  
+- **Program:** AnalytixCamp — SQL for Data Analytics Course  
+- **Objective:** Apply SQL skills to solve real-world business problems in retail analytics  
+- **Outcome:** Portfolio-ready project demonstrating end-to-end data analysis capabilities  
+
