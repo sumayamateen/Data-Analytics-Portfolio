@@ -186,8 +186,6 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 Open to Data Analyst, Business Intelligence, and SQL Analyst roles  
 
-> *"Transforming raw data into strategic advantage through analytical excellence and compelling visualizations"*
-
 ---
 
 ## Folder Structure
@@ -198,8 +196,11 @@ Data-Analytics-Portfolio/
 ├── Certificates/
 └── README.md
 
-
 ---
 
 ## Portfolio Stats
 8 Projects | 3 Learning Platforms | 7+ Technical Skills | Multiple Business Domains
+
+---
+
+> *"Transforming raw data into strategic advantage through analytical excellence and compelling visualizations"*
