@@ -15,17 +15,6 @@ It demonstrates **end-to-end SQL querying**, **business intelligence analysis**,
 
 ---
 
-## Quick Navigation
-- [Business Impact](#business-impact)  
-- [Project Structure](#project-structure)  
-- [Key Deliverables](#key-deliverables)  
-- [Analytical Insights](#analytical-insights)  
-- [Skills Developed](#skills-developed)  
-- [Business Recommendations](#business-recommendations)  
-- [Course Context](#course-context)  
-
----
-
 **Tech Stack:** SQL | Power BI | Excel | PowerPoint  
 **Focus Areas:** Retail analytics | Promotional effectiveness | Store performance | Business intelligence  
 
@@ -42,22 +31,10 @@ The analysis empowered business leaders to optimize promotional campaigns across
 ---
 
 ## Project Structure
-365_Super_Mart_Promotion_Analysis/
-├── 1_Business_Questions.md
-├── 2_SQL_Queries_Solutions.sql
-└── 3_365_Super_Mart_Promotion_Analysis_Presentation.pdf
-
----
-
-
----
-
-## Key Deliverables
-- 1_Business_Questions.md — Business requirements documentation  
-- 2_SQL_Queries_Solutions.sql — Comprehensive SQL analysis addressing 10 business questions  
-- 3_365_Super_Mart_Promotion_Analysis_Presentation.pdf — Executive presentation with insights & recommendations  
-
-[**Explore Project Files →**](./365_Super_Mart_Promotion_Analysis/)
+[365_Super_Mart_Promotion_Analysis/](./365_Super_Mart_Promotion_Analysis/)
+- [1_Business_Questions.md](.1_Business_Questions.md)
+- [2_SQL_Queries_Solutions.sql](./365_Super_Mart_Promotion_Analysis/2_SQL_Queries_Solutions.sql)
+- [3_365_Super_Mart_Promotion_Analysis_Presentation.pdf](./365_Super_Mart_Promotion_Analysis/3_365_Super_Mart_Promotion_Analysis_Presentation.pdf)
 
 ---
 
