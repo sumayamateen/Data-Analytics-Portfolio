@@ -183,11 +183,11 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 ## Folder Structure
 Data-Analytics-Portfolio/
-├── Meta Data Analyst Course/
-├── AnalytixCamp SQL Course/
-├── Excelerate Internships/
-├── Certificates/
-└── 📄 README.md
+├── Meta Data Analyst Course/ # 4 comprehensive analytics projects
+├── AnalytixCamp SQL Course/ # Advanced SQL & business analysis
+├── Excelerate Internships/ # 3 real-world internship projects
+├── Certificates/ # Professional certifications
+└── README.md
 
 ---
 
