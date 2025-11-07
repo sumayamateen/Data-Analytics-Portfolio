@@ -170,3 +170,20 @@ Showcases *end-to-end data workflows* from virtual internships and certified pro
 ---
 
 > *"Transforming raw data into strategic advantage through analytical excellence and compelling visualizations"*
+
+
+
+
+## Portfolio Sections
+
+### Meta Data Analyst Course
+[View Projects →](./Meta%20Data%20Analyst%20Course/)
+
+### AnalytixCamp SQL Course
+[View Projects →](./AnalytixCamp%20SQL%20Course/)
+
+### Excelerate Internships
+[View Projects →](./Excelerate%20Internships/)
+
+### Certificates
+[View Certificates →](./Certificates/)
