@@ -185,8 +185,8 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 ## Contact
 - **Email:** sumayamateen6@gmail.com
-- **LinkedIn:** (www.linkedin.com/in/sumaya-mateen-73659b347)  
-- **Portfolio:** (https://github.com/sumayamateen/Data-Analytics-Portfolio) 
+- **LinkedIn:** www.linkedin.com/in/sumaya-mateen-73659b347  
+- **Portfolio:** https://github.com/sumayamateen/Data-Analytics-Portfolio
 
 ---
 
