@@ -114,6 +114,20 @@ Showcases **end-to-end data workflows** from virtual internships and certified p
 
 ---
 
+## AnalytixCamp SQL Course Projects
+
+### 365 Super Mart - Promotion Sales Analysis
+- **Tech Stack:** PostgreSQL, SQL (CTEs, Window Functions, Joins, Aggregations)  
+- **Highlights:**
+  - Designed complex SQL queries for **data transformation, filtering, and performance optimization**  
+  - Applied **CASE statements, subqueries, and analytical functions** for KPI computation  
+  - Explored relational joins and CTEs for efficient data reporting  
+  - Built query-based insights for **sales, customer segmentation, and product trends**
+
+[View Project Files →](AnalytixCamp%20SQL%20Course/)
+
+---
+
 ## Portfolio Impact Summary
 
 | Project | Scale | Key Achievement | Business Impact |
