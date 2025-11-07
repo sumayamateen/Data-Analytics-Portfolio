@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I am a **Data Analyst** specializing in **Data Visualization, Business Intelligence, and Predictive Analytics**, with hands-on experience across **Excelerate Internship Programs**, **Meta Data Analyst Professional Certificate**, and **AnalytixCamp SQL Analytics**.  
 I transform raw data into actionable insights, reporting dashboards, and data-driven strategies that drive measurable business value.
@@ -22,7 +22,17 @@ I transform raw data into actionable insights, reporting dashboards, and data-dr
 
 ---
 
-## 💡 Portfolio Overview
+
+## Portfolio Sections
+
+- **Meta Data Analyst Course** → [View Projects](./Meta%20Data%20Analyst%20Course/)  
+- **AnalytixCamp SQL Course** → [View Projects](./AnalytixCamp%20SQL%20Course/)  
+- **Excelerate Internships** → [View Projects](./Excelerate%20Internships/)  
+- **Certificates** → [View Certificates](./Certificates/)
+
+---
+
+## Portfolio Overview
 
 Showcases **end-to-end data workflows** including data cleaning, transformation, analysis, visualization, predictive modeling, and business insight delivery.  
 
@@ -34,9 +44,9 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 ---
 
-## 🏆 Excelerate Internship Projects
+## Excelerate Internship Projects
 
-### 1. Student Churn Analysis & Prediction
+### Student Churn Analysis & Prediction
 **Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn  
 
 **Highlights:**
@@ -48,7 +58,7 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 ---
 
-### 2. Learner Engagement & Campaign Analytics Dashboard
+### Learner Engagement & Campaign Analytics Dashboard
 **Tech Stack:** PostgreSQL, SQL, Looker Studio, Excel  
 
 **Highlights:**
@@ -61,7 +71,7 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 ---
 
-### 3. Store Sales Analysis & Dashboard
+### Store Sales Analysis & Dashboard
 **Tech Stack:** Excel, Pivot Tables, Advanced Formulas  
 
 **Highlights:**
@@ -73,7 +83,7 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 ---
 
-## 📚 Meta Data Analyst Course Projects
+##  Meta Data Analyst Course Projects
 
 ### BrightThreads Boutique — Data Analytics Case Study
 **Tech Stack:** Excel, Google Sheets  
@@ -123,7 +133,7 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 ---
 
-## 💻 AnalytixCamp SQL Course Projects
+## AnalytixCamp SQL Course Projects
 
 ### 365 Super Mart - Promotion Sales Analysis
 **Tech Stack:** SQL, Power BI, Excel, Business Analytics  
@@ -139,7 +149,7 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 ---
 
-## 📊 Portfolio Impact Summary
+## Portfolio Impact Summary
 
 | Project | Scale | Key Achievement | Business Impact |
 |---------|-------|----------------|----------------|
@@ -154,7 +164,7 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 ---
 
-## 🏅 Certificates
+## Certificates
 
 ### Excelerate
 - [AI-Powered Data Insights Internship](Certificates/Excelerate/AI-Powered-Data-Insights-Internship.pdf)  
@@ -168,15 +178,6 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 - [SQL for Data Analytics](Certificates/AnalytixCamp/SQL-FOR-DATA-ANALYTICS.pdf)  
 
 [View All Certificates →](./Certificates/)
-
----
-
-## 🗂 Portfolio Sections
-
-- **Meta Data Analyst Course** → [View Projects](./Meta%20Data%20Analyst%20Course/)  
-- **AnalytixCamp SQL Course** → [View Projects](./AnalytixCamp%20SQL%20Course/)  
-- **Excelerate Internships** → [View Projects](./Excelerate%20Internships/)  
-- **Certificates** → [View Certificates](./Certificates/)
 
 ---
 
