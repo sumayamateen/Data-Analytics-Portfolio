@@ -9,30 +9,32 @@
 ---
 
 ## Overview  
-This repository showcases my **SQL data analytics project** completed under the **AnalytixCamp SQL for Data Analytics Course**, focusing on **real-world retail business problems**, **promotional campaign analysis**, and **data-driven decision making**.  
+This project, completed as part of the **AnalytixCamp SQL for Data Analytics Course**, focuses on solving real-world **retail business challenges** through **SQL-based analysis**, **promotion performance evaluation**, and **data-driven insights**.  
 
-The project demonstrates **end-to-end SQL querying**, **business intelligence analysis**, and **strategic recommendations** for a leading **FMCG enterprise**.
+It demonstrates **end-to-end SQL querying**, **business intelligence analysis**, and **strategic recommendations** for a leading **FMCG enterprise**.
 
 ---
 
 ## Project: 365 Super Mart — Promotion Sales Analysis  
-**Tech Stack:** SQL, Power BI, Excel, PowerPoint  
-**Focus Areas:** Retail analytics, promotional effectiveness, store performance, business intelligence  
+**Tech Stack:** SQL | Power BI | Excel | PowerPoint  
+**Focus Areas:** Retail analytics | Promotional effectiveness | Store performance | Business intelligence  
 
 ---
 
 ## Business Impact  
+The analysis empowered business leaders to optimize promotional campaigns across **50 retail stores**, driving significant revenue uplift and cost-efficiency.
+
 - Analyzed **50 stores** across multiple cities to measure promotional campaign effectiveness  
-- Identified **top-performing promotion types** generating **122.6M incremental revenue**  
+- Identified **top-performing promotion types** generating **+122.6M incremental revenue**  
 - Discovered **geographic performance disparities** with actionable optimization opportunities  
 - Delivered **data-driven recommendations** for promotional strategy optimization  
 
 ---
 
 ## Key Deliverables  
-- `1_Business_Questions.md` — Business requirements documentation  
-- `2_Sql_Queries_Solutions.sql` — Comprehensive SQL analysis addressing 10 business questions  
-- `3_365_Super_Mart_Promotion_Analysis_Presentation.pdf` — Executive presentation with insights & recommendations  
+- *1_Business_Questions.md* — Business requirements documentation  
+- *2_SQL_Queries_Solutions.sql* — Comprehensive SQL analysis addressing 10 business questions  
+- *3_365_Super_Mart_Promotion_Analysis_Presentation.pdf* — Executive presentation with insights & recommendations  
 
 [**View Project Files →**](./365_Super_Mart_Promotion_Analysis/)
 
@@ -95,16 +97,7 @@ The project demonstrates **end-to-end SQL querying**, **business intelligence an
 - Focus on **Grocery & Staples** and **Personal Care** categories  
 - Replicate successful strategies from top-performing cities in underperforming regions  
 - Phase out or redesign **25% OFF** and **50% OFF** campaigns  
-- Implement **city-specific** promotional strategies based on regional responsiveness  
-
----
-
-## Portfolio Summary  
-This project demonstrates my ability to:  
-- Translate **business questions** into **SQL analytical solutions**  
-- Perform **comprehensive retail analytics** with actionable insights  
-- Communicate **data-driven recommendations** to business stakeholders  
-- Apply **advanced SQL techniques** to solve real-world business problems  
+- Implement **city-specific** promotional strategies based on regional responsiveness
 
 ---
 
@@ -112,4 +105,6 @@ This project demonstrates my ability to:
 - **Program:** AnalytixCamp — SQL for Data Analytics Course  
 - **Objective:** Apply SQL skills to solve real-world business problems in retail analytics  
 - **Outcome:** Portfolio-ready project demonstrating end-to-end data analysis capabilities  
+
+---
 
