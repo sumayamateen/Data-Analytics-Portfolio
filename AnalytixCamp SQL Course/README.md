@@ -34,7 +34,7 @@ The analysis empowered business leaders to optimize promotional campaigns across
 
 - [365_Super_Mart_Promotion_Analysis/](./365_Super_Mart_Promotion_Analysis/) — Project folder containing all analysis files
 - [1_Business_Questions.md](./365_Super_Mart_Promotion_Analysis/1_Business_Questions.md) — Business requirements documentation
-- [2_SQL_Queries_Solutions.sql](./365_Super_Mart_Promotion_Analysis/2_Sql_Queries_Solutions.sql) — SQL queries solving 10 business questions
+- [2_Sql_Queries_Solutions.sql](./365_Super_Mart_Promotion_Analysis/2_Sql_Queries_Solutions.sql) — SQL queries solving 10 business questions
 - [3_365_Super_Mart_Promotion_Analysis_Presentation.pdf](./365_Super_Mart_Promotion_Analysis/3_365_Super_Mart_Promotion_Analysis_Presentation.pdf) — Executive presentation with insights & recommendations
 
 ---
