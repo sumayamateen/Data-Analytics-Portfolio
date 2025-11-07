@@ -169,15 +169,24 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 [**View All Certificates →**](./Certificates/)
 
-- [Meta Data Analyst with GenAI Certificate](./Certificates/Meta-Data-Analyst-with-GenAI.pdf)
-- [Excelerate Data Analytics Virtual Internship Program](./Certificates/Excelerate-Data-Analyst-Associate-Internship.pdf)  
-- [SQL for Data Analytics](./Certificates/AnalytixCamp-SQL-FOR-DATA-ANALYTICS.pdf)
+
+### Excelerate
+- [AI-Powered Data Insights Internship](Certificates/Excelerate/AI-Powered-Data-Insights-Internship.pdf)  
+- [Data Analyst Associate Internship](Certificates/Excelerate/Data-Analyst-Associate-Internship.pdf)  
+- [Mastering Excel Techniques Masterclass](Certificates/Excelerate/Mastering-Excel-Techniques-Masterclass.pdf)  
+
+### Meta
+- [Meta Data Analyst with GenAI Professional Certificate](Certificates/Meta/Meta-Data-Analyst-with-GenAI.pdf)  
+
+### AnalytixCamp
+- [SQL for Data Analytics](Certificates/AnalytixCamp/SQL-FOR-DATA-ANALYTICS.pdf)  
+
 ---
 
 ## Contact
-- **Email:** your.email@domain.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com) 
+- **Email:** sumayamateen6@gmail.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/sumaya-mateen-73659b347)  
+- **Portfolio:** [yourportfolio.com](https://github.com/sumayamateen/Data-Analytics-Portfolio) 
 
 ---
 
