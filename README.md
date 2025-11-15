@@ -14,7 +14,7 @@
 ---
 
 ## About Me
-I am a **Data Analyst specializing in Data Visualization, Business Intelligence (BI), and Predictive Analytics**. I am focused on the full analytical lifecycle—from transforming raw data into reliable insights, to building clear reporting dashboards that drive measurable business value.
+I am a **Data Analyst specializing in Data Visualization, Business Intelligence (BI), and Predictive Analytics**. I am focused on the full analytical lifecycle from transforming raw data into reliable insights, to building clear reporting dashboards that drive measurable business value.
 
 My hands-on experience comes from rigorous programs, including the Meta Data Analyst Professional Certificate, AnalytixCamp SQL Analytics, and the Excelerate Internship Program.
 
