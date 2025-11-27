@@ -16,7 +16,7 @@
 ## About Me
 Hi! I’m **Sumaya Mateen**, a passionate Data Analyst with a focus on **Data Visualization, Business Intelligence, and Predictive Analytics**. I love transforming raw data into actionable insights and building dashboards that help businesses make smart decisions.
 
-I’ve gained hands-on experience through programs like the **Meta Data Analyst Professional Certificate**, **AnalytixCamp SQL Analytics**, and **Excelerate Internships**, working on projects that cover the full data lifecycle — from cleaning and analysis to visualization and modeling.
+I’ve gained hands-on experience through programs like the **Meta Data Analyst Professional Certificate**, **AnalytixCamp SQL Analytics**, and **Excelerate Internships**, working on projects that cover the full data lifecycle from cleaning and analysis to visualization and modeling.
 
 **Open to roles:** Data Analyst | Business Intelligence Analyst | Data Visualization Specialist | SQL Analyst
 
