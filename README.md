@@ -1,4 +1,4 @@
-# Sumaya Mateen — Data Analytics & Visualization Portfolio
+# Sumaya Mateen | Data Analytics, BI & Visualization Portfolio
 
 ![Excelerate](https://img.shields.io/badge/Excelerate-Internship_Program-FF6F61)
 ![Meta](https://img.shields.io/badge/Meta-Data_Analyst_Program-0072B2)
