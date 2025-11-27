@@ -158,21 +158,21 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 ---
 
-## Certificates
+## Certifications
 
 [**View All Certificates →**](https://github.com/sumayamateen/Data-Analytics-Portfolio/tree/main/Certifications)
 
 
 ### Excelerate
-- [AI-Powered Data Insights Internship](Certificates/Excelerate/AI-Powered-Data-Insights-Internship.pdf)  
-- [Data Analyst Associate Internship](Certificates/Excelerate/Data-Analyst-Associate-Internship.pdf)  
-- [Mastering Excel Techniques Masterclass](Certificates/Excelerate/Mastering-Excel-Techniques-Masterclass.pdf)  
+- [AI-Powered Data Insights Internship](https://github.com/sumayamateen/Data-Analytics-Portfolio/blob/main/Certifications/AI-Powered-Data-Insights-Internship.pdf)  
+- [Data Analyst Associate Internship](https://github.com/sumayamateen/Data-Analytics-Portfolio/blob/main/Certifications/Data-Analyst-Associate-Internship.pdf)  
+- [Mastering Excel Techniques Masterclass](https://github.com/sumayamateen/Data-Analytics-Portfolio/blob/main/Certifications/Mastering-Excel-Techniques-Masterclass.pdf)  
 
 ### Meta
-- [Meta Data Analyst with GenAI Professional Certificate](Certificates/Meta/Meta-Data-Analyst-with-GenAI.pdf)  
+- [Meta Data Analyst with GenAI Professional Certificate](https://github.com/sumayamateen/Data-Analytics-Portfolio/blob/main/Certifications/Meta-Data-Analyst-with-GenAI.pdf)  
 
 ### AnalytixCamp
-- [SQL for Data Analytics](Certificates/AnalytixCamp/SQL-FOR-DATA-ANALYTICS.pdf)  
+- [SQL for Data Analytics](https://github.com/sumayamateen/Data-Analytics-Portfolio/blob/main/Certifications/SQL-FOR-DATA-ANALYTICS.pdfhttps://github.com/sumayamateen/Data-Analytics-Portfolio/blob/main/Certifications/SQL-FOR-DATA-ANALYTICS.pdf)  
 
 ---
 
