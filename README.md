@@ -160,7 +160,7 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 ## Certificates
 
-[**View All Certificates →**](./Certificates/)
+[**View All Certificates →**](https://github.com/sumayamateen/Data-Analytics-Portfolio/tree/main/Certifications)
 
 
 ### Excelerate
