@@ -14,19 +14,91 @@
 ---
 
 ## About Me
-I am a **Data Analyst specializing in Data Visualization, Business Intelligence (BI), and Predictive Analytics**. I am focused on the full analytical lifecycle from transforming raw data into reliable insights, to building clear reporting dashboards that drive measurable business value.
+Hi! I’m **Sumaya Mateen**, a passionate Data Analyst with a focus on **Data Visualization, Business Intelligence, and Predictive Analytics**. I love transforming raw data into actionable insights and building dashboards that help businesses make smart decisions.
 
-My hands-on experience comes from rigorous programs, including the Meta Data Analyst Professional Certificate, AnalytixCamp SQL Analytics, and the Excelerate Internship Program.
+I’ve gained hands-on experience through programs like the **Meta Data Analyst Professional Certificate**, **AnalytixCamp SQL Analytics**, and **Excelerate Internships**, working on projects that cover the full data lifecycle — from cleaning and analysis to visualization and modeling.
 
-**Open to roles:** Data Analyst, Business Intelligence Analyst, Data Visualization Specialist, and SQL Analyst.
+**Open to roles:** Data Analyst | Business Intelligence Analyst | Data Visualization Specialist | SQL Analyst
 
 ---
 
+## Portfolio Sections
 
-## Portfolio Overview
-Showcases **end-to-end data workflows** including data cleaning, transformation, analysis, visualization, predictive modeling, and business insight delivery.
+- **Excelerate Internship Projects** → Real-world internship projects  
+- **Meta Data Analyst Course Projects** → Course-based analytics projects  
+- **AnalytixCamp SQL Course Projects** → SQL and business analytics projects  
+- **Certificates** → Professional certifications and achievements  
 
-### Technical Skills Matrix
+---
+
+## Excelerate Internship Projects
+
+### Student Churn Analysis & Prediction
+**Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn  
+- Built Gradient Boosting model with **91% accuracy**  
+- Identified key churn drivers via EDA & correlation analysis  
+- Delivered actionable insights to **8,558 learners**, reducing churn by **31.8%**  
+[View Project →](https://github.com/sumayamateen/Student-Churn-Prediction-Analysis)
+
+### Learner Engagement & Campaign Analytics Dashboard
+**Tech Stack:** PostgreSQL, SQL, Looker Studio, Excel  
+- Unified **5 relational datasets** into a master table using ETL  
+- Automated reporting, reducing manual analysis by **90%**  
+- Dashboard tracked **52K+ learners** across **146 countries**  
+[View Project →](https://github.com/sumayamateen/Learner-Analytics-Dashboard)
+
+### Store Sales Analysis & Dashboard
+**Tech Stack:** Excel, Pivot Tables, Advanced Formulas  
+- Analyzed **$140K+ sales** across multiple products and regions  
+- Created interactive Excel dashboard with automated KPIs  
+[View Project →](https://github.com/sumayamateen/Store-Sales-Analysis-Dashboard)
+
+---
+
+## Meta Data Analyst Course Projects
+
+### BrightThreads Boutique Analytics Case Study
+**Tech Stack:** Excel, Google Sheets  
+- Data cleaning and validation  
+- Applied OSEMN framework and predictive modeling  
+- Achieved **10% sales growth target**  
+[View Project →](https://github.com/sumayamateen/BrightThreads-Boutique-Analytics)
+
+### Customer Data Analysis
+**Tech Stack:** Excel, Google Sheets, SQL  
+- Cleaned e-commerce data, removed duplicates/cancellations  
+- Performed correlation & regression analysis  
+- Efficient SQL queries for data exploration  
+[View Project →](https://github.com/sumayamateen/E-commerce-Customer-Analysis)
+
+### Pet Store Transactions Analysis
+**Tech Stack:** Python, Pandas, Seaborn, Tableau  
+- Cleaned & analyzed 2,903 transactions  
+- Built Tableau dashboard for inventory optimization  
+- Identified top-selling categories and profitable products  
+[View Project →](https://github.com/sumayamateen/Pet-Store-Transactions-Analysis)
+
+### Digital Campaigns Performance Analysis
+**Tech Stack:** Excel, Tableau, Statistical Testing  
+- Compared Facebook vs. AdWords ROI  
+- Applied correlation, t-tests, regression modeling  
+- Recommended optimal ad budget allocation  
+[View Project →](https://github.com/sumayamateen/Digital-Campaigns-Performance-Analysis)
+
+---
+
+## AnalytixCamp SQL Course Projects
+
+### 365 Super Mart - Promotion Sales Analysis
+**Tech Stack:** SQL, Power BI, Excel  
+- Analyzed **50 stores** to measure promotional effectiveness  
+- Identified top-performing promotions generating **+122.6M revenue**  
+- Applied advanced SQL: CTEs, window functions, complex aggregations  
+[View Project →](https://github.com/sumayamateen/Promotion-Sales-Analysis)
+
+---
+
+## Skills Matrix
 
 | Category | Proficiency | Tools & Technologies |
 |----------|------------|--------------------|
@@ -35,111 +107,6 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 | Data Visualization | Advanced | Power BI, Tableau, Excel Dashboards, Looker Studio |
 | Statistics & Modeling | Intermediate | Regression, Hypothesis Testing, A/B Testing, Correlation, Gradient Boosting |
 | Business Intelligence | Advanced | Excel, Google Sheets, PowerPoint, ETL Processes, KPI Development |
-
----
-
-## Excelerate Internship Projects
-
-### Student Churn Analysis & Prediction
-**Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn  
-
-**Highlights:**  
-- Gradient Boosting model with 91% accuracy  
-- Key churn drivers identified via EDA & correlation analysis  
-- Insights delivered to 8,558 learners, reducing churn by 31.8%
-
-[View Project Files →](https://github.com/sumayamateen/Student-Churn-Prediction-Analysis)
-
----
-
-### Learner Engagement & Campaign Analytics Dashboard
-**Tech Stack:** PostgreSQL, SQL, Looker Studio, Excel  
-
-**Highlights:**  
-- Unified 5 relational datasets into master table using ETL  
-- Automated reporting pipeline, reducing manual analysis by 90%  
-- Dashboard served 52K+ learners in 146 countries  
-- Enabled real-time tracking of learner progress and campaign performance  
-
-[View Project Files →](https://github.com/sumayamateen/Learner-Analytics-Dashboard)
-
----
-
-### Store Sales Analysis & Dashboard
-**Tech Stack:** Excel, Pivot Tables, Advanced Formulas  
-
-**Highlights:**  
-- Analyzed $140K+ sales across multiple products and regions  
-- Interactive Excel dashboard with automated KPIs  
-- Identified top-performing products and regions  
-
-[View Project Files →](https://github.com/sumayamateen/Store-Sales-Analysis-Dashboard)
-
----
-
-## Meta Data Analyst Course Projects
-
-### BrightThreads Boutique Analytics Case Study
-**Tech Stack:** Excel, Google Sheets  
-
-**Highlights:**  
-- Complete data cleaning and validation  
-- Applied OSEMN framework and predictive modeling  
-- Achieved 10% sales growth target  
-
-[View Project Files →](https://github.com/sumayamateen/BrightThreads-Boutique-Analytics)
-
----
-
-### Customer Data Analysis
-**Tech Stack:** Excel, Google Sheets, SQL  
-
-**Highlights:**  
-- Cleaned e-commerce data and removed duplicates/cancellations  
-- Performed correlation & regression analysis  
-- SQL queries for efficient data exploration  
-
-[View Project Files →](https://github.com/sumayamateen/E-commerce-Customer-Analysis)
-
----
-
-### Pet Store Transactions Analysis
-**Tech Stack:** Python, Pandas, Seaborn, Tableau  
-
-**Highlights:**  
-- Cleaned and analyzed 2,903 transactions  
-- Tableau dashboard for inventory optimization  
-- Identified top-selling categories and most profitable products  
-
-[View Project Files →](https://github.com/sumayamateen/Pet-Store-Transactions-Analysis)
-
----
-
-### Digital Campaigns Performance Analysis
-**Tech Stack:** Excel, Tableau, Statistical Testing  
-
-**Highlights:**  
-- Compared Facebook vs. AdWords ROI  
-- Applied correlation, t-tests, and regression modeling  
-- Provided recommendations for optimal ad budget allocation  
-
-[View Project Files →](https://github.com/sumayamateen/Digital-Campaigns-Performance-Analysis)
-
----
-
-## AnalytixCamp SQL Course Projects
-
-### 365 Super Mart - Promotion Sales Analysis
-**Tech Stack:** SQL, Power BI, Excel, Business Analytics  
-
-**Highlights:**  
-- Analyzed 50 stores across multiple cities to measure promotional effectiveness  
-- Identified top-performing promotions generating +122.6M revenue  
-- Discovered BOGOF drives highest unit sales (+157K incremental units)  
-- Provided data-driven recommendations for promotional strategy  
-- Applied advanced SQL techniques: CTEs, window functions, complex aggregations  
-
-[View Project Files →](https://github.com/sumayamateen/Promotion-Sales-Analysis)
 
 ---
 
@@ -160,32 +127,20 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 ## Certifications
 
-[**View All Certificates →**](https://github.com/sumayamateen/Data-Analytics-Portfolio/tree/main/Certifications)
+[View All Certificates →](https://github.com/sumayamateen/Data-Analytics-Portfolio/tree/main/Certifications)
 
-
-### Excelerate
-- [AI-Powered Data Insights Internship](https://github.com/sumayamateen/Data-Analytics-Portfolio/blob/main/Certifications/AI-Powered-Data-Insights-Internship.pdf)  
-- [Data Analyst Associate Internship](https://github.com/sumayamateen/Data-Analytics-Portfolio/blob/main/Certifications/Data-Analyst-Associate-Internship.pdf)  
-- [Mastering Excel Techniques Masterclass](https://github.com/sumayamateen/Data-Analytics-Portfolio/blob/main/Certifications/Mastering-Excel-Techniques-Masterclass.pdf)  
-
-### Meta
-- [Meta Data Analyst with GenAI Professional Certificate](https://github.com/sumayamateen/Data-Analytics-Portfolio/blob/main/Certifications/Meta-Data-Analyst-with-GenAI.pdf)  
-
-### AnalytixCamp
-- [SQL for Data Analytics](https://github.com/sumayamateen/Data-Analytics-Portfolio/blob/main/Certifications/SQL-FOR-DATA-ANALYTICS.pdfhttps://github.com/sumayamateen/Data-Analytics-Portfolio/blob/main/Certifications/SQL-FOR-DATA-ANALYTICS.pdf)  
+- **Excelerate:** AI-Powered Data Insights, Data Analyst Associate, Mastering Excel Techniques  
+- **Meta:** Meta Data Analyst with GenAI Professional Certificate  
+- **AnalytixCamp:** SQL for Data Analytics  
 
 ---
 
-## Contact
-- **Email:** sumayamateen6@gmail.com
-- **LinkedIn:** www.linkedin.com/in/sumaya-mateen 
-- **Portfolio:** https://github.com/sumayamateen/Data-Analytics-Portfolio
+## Contact Me
+
+- **Email:** sumayamateen6@gmail.com  
+- **LinkedIn:** [linkedin.com/in/sumaya-mateen](https://www.linkedin.com/in/sumaya-mateen)  
+- **Portfolio:** [GitHub Portfolio](https://github.com/sumayamateen/Data-Analytics-Portfolio)  
 
 ---
 
-## Portfolio Stats
-8 Projects | 3 Learning Platforms | 7+ Technical Skills | Multiple Business Domains
-
----
-
-> *"Transforming raw data into strategic advantage through analytical excellence and compelling visualizations"*
+> *"Transforming raw data into strategic advantage through clear insights and compelling visualizations."*
