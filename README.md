@@ -50,10 +50,6 @@ Showcases **end-to-end data workflows** including data cleaning, transformation,
 
 [View Project Files →](https://github.com/sumayamateen/Student-Churn-Prediction-Analysis)
 
-[View Project Files →](Excelerate%20Internships/AI-Powered-Data-Insights-Internship/)
-
-https://github.com/sumayamateen/Student-Churn-Prediction-Analysis
-
 ---
 
 ### Learner Engagement & Campaign Analytics Dashboard
@@ -65,7 +61,7 @@ https://github.com/sumayamateen/Student-Churn-Prediction-Analysis
 - Dashboard served 52K+ learners in 146 countries  
 - Enabled real-time tracking of learner progress and campaign performance  
 
-[View Project Files →](Excelerate%20Internships/Data-Analyst-Associate-Internship/)
+[View Project Files →](https://github.com/sumayamateen/Learner-Analytics-Dashboard)
 
 ---
 
@@ -77,13 +73,13 @@ https://github.com/sumayamateen/Student-Churn-Prediction-Analysis
 - Interactive Excel dashboard with automated KPIs  
 - Identified top-performing products and regions  
 
-[View Project Files →](Excelerate%20Internships/Mastering-Excel-Techniques-Masterclass/)
+[View Project Files →](https://github.com/sumayamateen/Store-Sales-Analysis-Dashboard)
 
 ---
 
 ## Meta Data Analyst Course Projects
 
-### BrightThreads Boutique — Data Analytics Case Study
+### BrightThreads Boutique Analytics Case Study
 **Tech Stack:** Excel, Google Sheets  
 
 **Highlights:**  
@@ -91,7 +87,7 @@ https://github.com/sumayamateen/Student-Churn-Prediction-Analysis
 - Applied OSEMN framework and predictive modeling  
 - Achieved 10% sales growth target  
 
-[View Project Files →](Meta%20Data%20Analyst%20Course/1_Introduction_to_Data_Analytics/)
+[View Project Files →](https://github.com/sumayamateen/BrightThreads-Boutique-Analytics)
 
 ---
 
@@ -103,7 +99,7 @@ https://github.com/sumayamateen/Student-Churn-Prediction-Analysis
 - Performed correlation & regression analysis  
 - SQL queries for efficient data exploration  
 
-[View Project Files →](Meta%20Data%20Analyst%20Course/2_Data_Analysis_with_Spreadsheets_and_SQL/)
+[View Project Files →](https://github.com/sumayamateen/E-commerce-Customer-Analysis)
 
 ---
 
@@ -115,7 +111,7 @@ https://github.com/sumayamateen/Student-Churn-Prediction-Analysis
 - Tableau dashboard for inventory optimization  
 - Identified top-selling categories and most profitable products  
 
-[View Project Files →](Meta%20Data%20Analyst%20Course/3_Python_Data_Analytics/)
+[View Project Files →](https://github.com/sumayamateen/Pet-Store-Transactions-Analysis)
 
 ---
 
@@ -127,7 +123,7 @@ https://github.com/sumayamateen/Student-Churn-Prediction-Analysis
 - Applied correlation, t-tests, and regression modeling  
 - Provided recommendations for optimal ad budget allocation  
 
-[View Project Files →](Meta%20Data%20Analyst%20Course/4_Statistics_Foundations/)
+[View Project Files →](https://github.com/sumayamateen/Digital-Campaigns-Performance-Analysis)
 
 ---
 
@@ -143,7 +139,7 @@ https://github.com/sumayamateen/Student-Churn-Prediction-Analysis
 - Provided data-driven recommendations for promotional strategy  
 - Applied advanced SQL techniques: CTEs, window functions, complex aggregations  
 
-[View Project Files →](AnalytixCamp%20SQL%20Course/)
+[View Project Files →](https://github.com/sumayamateen/Promotion-Sales-Analysis)
 
 ---
 
@@ -184,16 +180,6 @@ https://github.com/sumayamateen/Student-Churn-Prediction-Analysis
 - **Email:** sumayamateen6@gmail.com
 - **LinkedIn:** www.linkedin.com/in/sumaya-mateen 
 - **Portfolio:** https://github.com/sumayamateen/Data-Analytics-Portfolio
-
----
-
-## Folder Structure
-
-- [Meta Data Analyst Course](./Meta%20Data%20Analyst%20Course/) — 4 comprehensive analytics projects  
-- [AnalytixCamp SQL Course](./AnalytixCamp%20SQL%20Course/) — Advanced SQL & business analysis  
-- [Excelerate Internships](./Excelerate%20Internships/) — 3 real-world internship projects  
-- [Certificates](./Certificates/) — Professional certifications  
-- [README.md](./README.md)
 
 ---
 
