@@ -31,8 +31,7 @@ I’m open to roles as a **Data Analyst, BI Analyst, Data Visualization Speciali
 ## Portfolio Sections
 
 - **Excelerate Internship Projects** → Real-world internship projects  
-- **Meta Data Analyst Course Projects** → Course-based analytics projects  
-- **AnalytixCamp SQL Course Projects** → SQL and business analytics projects  
+- **Projects** → Analytics projects  
 - **Certificates** → Professional certifications and achievements  
 
 ---
@@ -61,7 +60,7 @@ I’m open to roles as a **Data Analyst, BI Analyst, Data Visualization Speciali
 
 ---
 
-## Meta Data Analyst Course Projects
+## Projects
 
 ### BrightThreads Boutique Analytics Case Study
 **Tech Stack:** Excel, Google Sheets  
@@ -93,7 +92,6 @@ I’m open to roles as a **Data Analyst, BI Analyst, Data Visualization Speciali
 
 ---
 
-## AnalytixCamp SQL Course Projects
 
 ### 365 Super Mart - Promotion Sales Analysis
 **Tech Stack:** SQL, Power BI, Excel  
